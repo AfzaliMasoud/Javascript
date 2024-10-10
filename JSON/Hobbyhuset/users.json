@@ -1,0 +1,3586 @@
+[
+	{
+		"KNr" : 5002,
+		"Fornavn" : "Paal",
+		"Etternavn" : "Aass",
+		"Adresse" : "Lindemans gate79",
+		"PostNr" : "1711"
+	},
+	{
+		"KNr" : 5007,
+		"Fornavn" : "Joakim",
+		"Etternavn" : "Laursen",
+		"Adresse" : "Thomas Heftyes gate 39",
+		"PostNr" : "0015"
+	},
+	{
+		"KNr" : 5009,
+		"Fornavn" : "Laurits",
+		"Etternavn" : "Eckhoff",
+		"Adresse" : "Solheimgata 81",
+		"PostNr" : "0654"
+	},
+	{
+		"KNr" : 5011,
+		"Fornavn" : "Åshild",
+		"Etternavn" : "Sætran",
+		"Adresse" : "Erling Skjalgssons gate 56",
+		"PostNr" : "3750"
+	},
+	{
+		"KNr" : 5022,
+		"Fornavn" : "Torgrim",
+		"Etternavn" : "Østbø",
+		"Adresse" : "Hafrsfjordgata 11",
+		"PostNr" : "3925"
+	},
+	{
+		"KNr" : 5025,
+		"Fornavn" : "Malvin",
+		"Etternavn" : "Khan",
+		"Adresse" : "Halvdan Svartes gate 7",
+		"PostNr" : "1326"
+	},
+	{
+		"KNr" : 5028,
+		"Fornavn" : "Sidsel",
+		"Etternavn" : "Gulli",
+		"Adresse" : "Kristinelundveien 34",
+		"PostNr" : "4297"
+	},
+	{
+		"KNr" : 5039,
+		"Fornavn" : "Katrine",
+		"Etternavn" : "Eilertsen",
+		"Adresse" : "Ingar Nilsens vei 12C",
+		"PostNr" : "7003"
+	},
+	{
+		"KNr" : 5042,
+		"Fornavn" : "Skjalg",
+		"Etternavn" : "Tengesdal",
+		"Adresse" : "Nobels gate 17",
+		"PostNr" : "8310"
+	},
+	{
+		"KNr" : 5043,
+		"Fornavn" : "Gunn Iren",
+		"Etternavn" : "Ånestad",
+		"Adresse" : "Ottar Birtings gate 9",
+		"PostNr" : "7200"
+	},
+	{
+		"KNr" : 5049,
+		"Fornavn" : "Khalid",
+		"Etternavn" : "Rue",
+		"Adresse" : "Observatorie Terrasse 1",
+		"PostNr" : "6401"
+	},
+	{
+		"KNr" : 5071,
+		"Fornavn" : "Jann",
+		"Etternavn" : "Skjelvik",
+		"Adresse" : "Munkedamsveien 51A",
+		"PostNr" : "5570"
+	},
+	{
+		"KNr" : 5079,
+		"Fornavn" : "Ine",
+		"Etternavn" : "Kraft",
+		"Adresse" : "Thomles gate 8",
+		"PostNr" : "3340"
+	},
+	{
+		"KNr" : 5081,
+		"Fornavn" : "Valter",
+		"Etternavn" : "Grimsmo",
+		"Adresse" : "Lassons gate 32",
+		"PostNr" : "5802"
+	},
+	{
+		"KNr" : 5082,
+		"Fornavn" : "Alexandra",
+		"Etternavn" : "Saleh",
+		"Adresse" : "Leiv Eirikssons gate 74",
+		"PostNr" : "8300"
+	},
+	{
+		"KNr" : 5087,
+		"Fornavn" : "Maj",
+		"Etternavn" : "Elton",
+		"Adresse" : "Bjørn Farmanns gate 119A",
+		"PostNr" : "8380"
+	},
+	{
+		"KNr" : 5091,
+		"Fornavn" : "Agnethe",
+		"Etternavn" : "Wessel",
+		"Adresse" : "Gardeveien 38",
+		"PostNr" : "8666"
+	},
+	{
+		"KNr" : 5092,
+		"Fornavn" : "Erland",
+		"Etternavn" : "Trøan",
+		"Adresse" : "Gydas vei 55",
+		"PostNr" : "2201"
+	},
+	{
+		"KNr" : 5093,
+		"Fornavn" : "Morten",
+		"Etternavn" : "Lindland",
+		"Adresse" : "Harald Hårfagres gate 141",
+		"PostNr" : "3428"
+	},
+	{
+		"KNr" : 5102,
+		"Fornavn" : "Kaja",
+		"Etternavn" : "Høvik",
+		"Adresse" : "Hammerstads gate 3E",
+		"PostNr" : "5600"
+	},
+	{
+		"KNr" : 5119,
+		"Fornavn" : "Thale",
+		"Etternavn" : "Evenrud",
+		"Adresse" : "Kirkeveien 5",
+		"PostNr" : "1201"
+	},
+	{
+		"KNr" : 5122,
+		"Fornavn" : "Connie",
+		"Etternavn" : "Volden",
+		"Adresse" : "Valkyriegata 19A",
+		"PostNr" : "1701"
+	},
+	{
+		"KNr" : 5129,
+		"Fornavn" : "Arne",
+		"Etternavn" : "Reinertsen",
+		"Adresse" : "Valkyrieplassen",
+		"PostNr" : "0501"
+	},
+	{
+		"KNr" : 5138,
+		"Fornavn" : "Ranveig",
+		"Etternavn" : "Gjertsen",
+		"Adresse" : "Henrik Wergelands Allé 47",
+		"PostNr" : "0901"
+	},
+	{
+		"KNr" : 5139,
+		"Fornavn" : "Mariann",
+		"Etternavn" : "Enger",
+		"Adresse" : "Krebs gate 12",
+		"PostNr" : "3300"
+	},
+	{
+		"KNr" : 5144,
+		"Fornavn" : "Asle",
+		"Etternavn" : "Hornnes",
+		"Adresse" : "Hegermanns gate 3",
+		"PostNr" : "0201"
+	},
+	{
+		"KNr" : 5162,
+		"Fornavn" : "Ole-Jørgen",
+		"Etternavn" : "Molteberg",
+		"Adresse" : "Hegermanns plass 4C",
+		"PostNr" : "3201"
+	},
+	{
+		"KNr" : 5172,
+		"Fornavn" : "Aasta",
+		"Etternavn" : "Garvik",
+		"Adresse" : "Kyrre Grepps gate 19",
+		"PostNr" : "8300"
+	},
+	{
+		"KNr" : 5188,
+		"Fornavn" : "Jorid",
+		"Etternavn" : "Marcussen",
+		"Adresse" : "Haarklous plass 23C",
+		"PostNr" : "9013"
+	},
+	{
+		"KNr" : 5201,
+		"Fornavn" : "Aleksandra",
+		"Etternavn" : "Vaksdal",
+		"Adresse" : "Edvard Griegs Allé 12",
+		"PostNr" : "0952"
+	},
+	{
+		"KNr" : 5208,
+		"Fornavn" : "Fatima",
+		"Etternavn" : "Hildre",
+		"Adresse" : "Nordkappgata 15",
+		"PostNr" : "3901"
+	},
+	{
+		"KNr" : 5209,
+		"Fornavn" : "Emilie",
+		"Etternavn" : "Fotland",
+		"Adresse" : "Sigurd Lies gate 19",
+		"PostNr" : "7200"
+	},
+	{
+		"KNr" : 5219,
+		"Fornavn" : "Ayse",
+		"Etternavn" : "Sellevold",
+		"Adresse" : "Lilleborggata 28",
+		"PostNr" : "8820"
+	},
+	{
+		"KNr" : 5237,
+		"Fornavn" : "Magnhild",
+		"Etternavn" : "Helgestad",
+		"Adresse" : "Åsengata 6",
+		"PostNr" : "6201"
+	},
+	{
+		"KNr" : 5238,
+		"Fornavn" : "Inger-Lise",
+		"Etternavn" : "Nerdal",
+		"Adresse" : "Erika Nissens gate 3",
+		"PostNr" : "2910"
+	},
+	{
+		"KNr" : 5239,
+		"Fornavn" : "Mustafa",
+		"Etternavn" : "Falck",
+		"Adresse" : "Lammers' gate 8B",
+		"PostNr" : "6320"
+	},
+	{
+		"KNr" : 5250,
+		"Fornavn" : "Tormod",
+		"Etternavn" : "Furset",
+		"Adresse" : "Kyrre Grepps gate 81",
+		"PostNr" : "9321"
+	},
+	{
+		"KNr" : 5251,
+		"Fornavn" : "Maren",
+		"Etternavn" : "Stephansen",
+		"Adresse" : "Fjellhus Allé 129",
+		"PostNr" : "7730"
+	},
+	{
+		"KNr" : 5256,
+		"Fornavn" : "Sol",
+		"Etternavn" : "Fauske",
+		"Adresse" : "Caspar Storms vei 21",
+		"PostNr" : "2880"
+	},
+	{
+		"KNr" : 5267,
+		"Fornavn" : "Birthe",
+		"Etternavn" : "Nydal",
+		"Adresse" : "Duggveien 30",
+		"PostNr" : "3359"
+	},
+	{
+		"KNr" : 5310,
+		"Fornavn" : "Ole",
+		"Etternavn" : "Haugom",
+		"Adresse" : "Agmund Bolts vei 145",
+		"PostNr" : "9925"
+	},
+	{
+		"KNr" : 5316,
+		"Fornavn" : "Åsa",
+		"Etternavn" : "Folgerø",
+		"Adresse" : "Klosterheimveien 6C",
+		"PostNr" : "0330"
+	},
+	{
+		"KNr" : 5321,
+		"Fornavn" : "Sivert",
+		"Etternavn" : "Ose",
+		"Adresse" : "Harald Halvorsens vei 17",
+		"PostNr" : "0208"
+	},
+	{
+		"KNr" : 5322,
+		"Fornavn" : "Lisa",
+		"Etternavn" : "Fjeldstad",
+		"Adresse" : "Fyrstikkbakken 5D",
+		"PostNr" : "0201"
+	},
+	{
+		"KNr" : 5328,
+		"Fornavn" : "Anne-Britt",
+		"Etternavn" : "Sneve",
+		"Adresse" : "Johan Evjes vei 41",
+		"PostNr" : "0330"
+	},
+	{
+		"KNr" : 5353,
+		"Fornavn" : "Gjermund",
+		"Etternavn" : "Hansson",
+		"Adresse" : "Grinda 2",
+		"PostNr" : "4020"
+	},
+	{
+		"KNr" : 5354,
+		"Fornavn" : "David",
+		"Etternavn" : "Astrup",
+		"Adresse" : "Bjørndalsbrotet 21",
+		"PostNr" : "1892"
+	},
+	{
+		"KNr" : 5355,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Aldersheimbakken 6",
+		"PostNr" : "3243"
+	},
+	{
+		"KNr" : 5356,
+		"Fornavn" : "Ole-jørgen",
+		"Etternavn" : "Kongshaug",
+		"Adresse" : "Ruskeneshaugen 57",
+		"PostNr" : "2943"
+	},
+	{
+		"KNr" : 5357,
+		"Fornavn" : "Abdullah",
+		"Etternavn" : "Endal",
+		"Adresse" : "Gullfjellsvegen 9",
+		"PostNr" : "5072"
+	},
+	{
+		"KNr" : 5358,
+		"Fornavn" : "Brian",
+		"Etternavn" : "Holte",
+		"Adresse" : "Nedberget 49",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5359,
+		"Fornavn" : "Klara",
+		"Etternavn" : "Brække",
+		"Adresse" : "Fanavegen 40",
+		"PostNr" : "1763"
+	},
+	{
+		"KNr" : 5360,
+		"Fornavn" : "Abdullah",
+		"Etternavn" : "Endal",
+		"Adresse" : "Gullfjellsvegen 9",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5361,
+		"Fornavn" : "Klara",
+		"Etternavn" : "Brække",
+		"Adresse" : "Fanavegen 40",
+		"PostNr" : "4645"
+	},
+	{
+		"KNr" : 5362,
+		"Fornavn" : "Ada",
+		"Etternavn" : "Fiske",
+		"Adresse" : "Hesthaugvegen 36",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5363,
+		"Fornavn" : "Wanja",
+		"Etternavn" : "Nordhaug",
+		"Adresse" : "Vestre Murallmenningen 14",
+		"PostNr" : "1605"
+	},
+	{
+		"KNr" : 5364,
+		"Fornavn" : "Jakob",
+		"Etternavn" : "Mundal",
+		"Adresse" : "Tollbugata 53",
+		"PostNr" : "0988"
+	},
+	{
+		"KNr" : 5365,
+		"Fornavn" : "Brian",
+		"Etternavn" : "Holte",
+		"Adresse" : "Nedberget 49",
+		"PostNr" : "4004"
+	},
+	{
+		"KNr" : 5366,
+		"Fornavn" : "Johny",
+		"Etternavn" : "Jonassen",
+		"Adresse" : "Nøttveitvegen 35",
+		"PostNr" : "1155"
+	},
+	{
+		"KNr" : 5367,
+		"Fornavn" : "Thore",
+		"Etternavn" : "Hauan",
+		"Adresse" : "Lindealléen 39",
+		"PostNr" : "4586"
+	},
+	{
+		"KNr" : 5368,
+		"Fornavn" : "Sven",
+		"Etternavn" : "Dammen",
+		"Adresse" : "Apotekarvegen 43",
+		"PostNr" : "0801"
+	},
+	{
+		"KNr" : 5369,
+		"Fornavn" : "Jesper",
+		"Etternavn" : "Førre",
+		"Adresse" : "Jomfrustien 161",
+		"PostNr" : "5445"
+	},
+	{
+		"KNr" : 5370,
+		"Fornavn" : "Maud",
+		"Etternavn" : "Mellingen",
+		"Adresse" : "Sætrefjellet 50",
+		"PostNr" : "0565"
+	},
+	{
+		"KNr" : 5371,
+		"Fornavn" : "Mohamed",
+		"Etternavn" : "Bremseth",
+		"Adresse" : "Engevikvegen 7",
+		"PostNr" : "5035"
+	},
+	{
+		"KNr" : 5372,
+		"Fornavn" : "Tony",
+		"Etternavn" : "Lauritzen",
+		"Adresse" : "Skjenlien 1",
+		"PostNr" : "4803"
+	},
+	{
+		"KNr" : 5373,
+		"Fornavn" : "Lina",
+		"Etternavn" : "Buljo",
+		"Adresse" : "Finnemanns plass 56",
+		"PostNr" : "1255"
+	},
+	{
+		"KNr" : 5374,
+		"Fornavn" : "Trine-lise",
+		"Etternavn" : "Nilssen",
+		"Adresse" : "Vaskerelven 64",
+		"PostNr" : "1892"
+	},
+	{
+		"KNr" : 5375,
+		"Fornavn" : "Oddbjørn",
+		"Etternavn" : "Brunstad",
+		"Adresse" : "Fagertunvegen 29",
+		"PostNr" : "4174"
+	},
+	{
+		"KNr" : 5376,
+		"Fornavn" : "Chris",
+		"Etternavn" : "Fiksdal",
+		"Adresse" : "Helmers vei 25",
+		"PostNr" : "0877"
+	},
+	{
+		"KNr" : 5377,
+		"Fornavn" : "Veslemøy",
+		"Etternavn" : "Nordbø",
+		"Adresse" : "Vesthagen 6",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5378,
+		"Fornavn" : "Gjert",
+		"Etternavn" : "Forland",
+		"Adresse" : "Hylkjeneset 69",
+		"PostNr" : "3243"
+	},
+	{
+		"KNr" : 5379,
+		"Fornavn" : "Wanja",
+		"Etternavn" : "Nordhaug",
+		"Adresse" : "Vestre Murallmenningen 14",
+		"PostNr" : "2025"
+	},
+	{
+		"KNr" : 5380,
+		"Fornavn" : "Brian",
+		"Etternavn" : "Holte",
+		"Adresse" : "Nedberget 49",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5381,
+		"Fornavn" : "Ingmar",
+		"Etternavn" : "Morken",
+		"Adresse" : "Thomasstien 41",
+		"PostNr" : "2943"
+	},
+	{
+		"KNr" : 5382,
+		"Fornavn" : "Adam",
+		"Etternavn" : "Loe",
+		"Adresse" : "St. Halvards vei 22A",
+		"PostNr" : "1763"
+	},
+	{
+		"KNr" : 5383,
+		"Fornavn" : "Sigvart",
+		"Etternavn" : "Christophersen",
+		"Adresse" : "Fortunbakkane 23",
+		"PostNr" : "0901"
+	},
+	{
+		"KNr" : 5384,
+		"Fornavn" : "Kaare",
+		"Etternavn" : "Gloppen",
+		"Adresse" : "Kippersmauet 35",
+		"PostNr" : "3893"
+	},
+	{
+		"KNr" : 5385,
+		"Fornavn" : "David",
+		"Etternavn" : "Astrup",
+		"Adresse" : "Bjørndalsbrotet 21",
+		"PostNr" : "1389"
+	},
+	{
+		"KNr" : 5386,
+		"Fornavn" : "Mariann",
+		"Etternavn" : "Mathiassen",
+		"Adresse" : "Sveiarhaugen 26",
+		"PostNr" : "3800"
+	},
+	{
+		"KNr" : 5387,
+		"Fornavn" : "Dagny",
+		"Etternavn" : "Kvamme",
+		"Adresse" : "Sandviksleitet 24",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5388,
+		"Fornavn" : "Hallstein",
+		"Etternavn" : "Håkonsen",
+		"Adresse" : "Nordre Gommershaugen 45",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5389,
+		"Fornavn" : "Jakob",
+		"Etternavn" : "Mundal",
+		"Adresse" : "Tollbugata 53",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5390,
+		"Fornavn" : "Stephanie",
+		"Etternavn" : "Eng",
+		"Adresse" : "Gullstølslien 12",
+		"PostNr" : "0032"
+	},
+	{
+		"KNr" : 5391,
+		"Fornavn" : "Gorm",
+		"Etternavn" : "Milde",
+		"Adresse" : "Søren van der Weldes veg 71",
+		"PostNr" : "2607"
+	},
+	{
+		"KNr" : 5392,
+		"Fornavn" : "Agnes",
+		"Etternavn" : "Johannessen",
+		"Adresse" : "Nylandsveien 26",
+		"PostNr" : "5258"
+	},
+	{
+		"KNr" : 5393,
+		"Fornavn" : "Tom-erik",
+		"Etternavn" : "Drange",
+		"Adresse" : "Fæsteråsen 67",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5394,
+		"Fornavn" : "Jakob",
+		"Etternavn" : "Mundal",
+		"Adresse" : "Tollbugata 53",
+		"PostNr" : "2309"
+	},
+	{
+		"KNr" : 5395,
+		"Fornavn" : "Ismail",
+		"Etternavn" : "Furu",
+		"Adresse" : "Jens Rolfsens gate 47",
+		"PostNr" : "4174"
+	},
+	{
+		"KNr" : 5396,
+		"Fornavn" : "Mathilde",
+		"Etternavn" : "Hessen",
+		"Adresse" : "Midtunstien 54",
+		"PostNr" : "3885"
+	},
+	{
+		"KNr" : 5397,
+		"Fornavn" : "Ismail",
+		"Etternavn" : "Furu",
+		"Adresse" : "Bakkevegen 47",
+		"PostNr" : "5282"
+	},
+	{
+		"KNr" : 5398,
+		"Fornavn" : "Abdullah",
+		"Etternavn" : "Endal",
+		"Adresse" : "Gullfjellsvegen 9",
+		"PostNr" : "5845"
+	},
+	{
+		"KNr" : 5399,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Balders veg 63",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5400,
+		"Fornavn" : "Adam",
+		"Etternavn" : "Loe",
+		"Adresse" : "St. Halvards vei 22",
+		"PostNr" : "5202"
+	},
+	{
+		"KNr" : 5401,
+		"Fornavn" : "Jarand",
+		"Etternavn" : "Mydland",
+		"Adresse" : "Tordenskjolds gate 57",
+		"PostNr" : "3484"
+	},
+	{
+		"KNr" : 5402,
+		"Fornavn" : "Abdullah",
+		"Etternavn" : "Endal",
+		"Adresse" : "Gullfjellsvegen 9",
+		"PostNr" : "2607"
+	},
+	{
+		"KNr" : 5403,
+		"Fornavn" : "Abdirahman",
+		"Etternavn" : "Lindahl",
+		"Adresse" : "Solbakksvingen 27",
+		"PostNr" : "0602"
+	},
+	{
+		"KNr" : 5404,
+		"Fornavn" : "Gøril",
+		"Etternavn" : "Bjørke",
+		"Adresse" : "Barliveien 29",
+		"PostNr" : "2309"
+	},
+	{
+		"KNr" : 5405,
+		"Fornavn" : "Gjert",
+		"Etternavn" : "Forland",
+		"Adresse" : "Hylkjeneset 69",
+		"PostNr" : "0270"
+	},
+	{
+		"KNr" : 5406,
+		"Fornavn" : "Carsten",
+		"Etternavn" : "Askildsen",
+		"Adresse" : "Bjørgebrekken 9",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5407,
+		"Fornavn" : "Ismail",
+		"Etternavn" : "Furu",
+		"Adresse" : "Bendixens vei 47",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5408,
+		"Fornavn" : "Agnar",
+		"Etternavn" : "Engelsen",
+		"Adresse" : "Gårdsvegen 21",
+		"PostNr" : "5232"
+	},
+	{
+		"KNr" : 5409,
+		"Fornavn" : "Tom-erik",
+		"Etternavn" : "Drange",
+		"Adresse" : "Fæsteråsen 67",
+		"PostNr" : "3199"
+	},
+	{
+		"KNr" : 5410,
+		"Fornavn" : "Maren",
+		"Etternavn" : "Martens",
+		"Adresse" : "Sukkerhusgaten 18D",
+		"PostNr" : "2943"
+	},
+	{
+		"KNr" : 5411,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Skipanesvegen 6",
+		"PostNr" : "0988"
+	},
+	{
+		"KNr" : 5412,
+		"Fornavn" : "Veslemøy",
+		"Etternavn" : "Nordbø",
+		"Adresse" : "Vesthagen 26",
+		"PostNr" : "0988"
+	},
+	{
+		"KNr" : 5413,
+		"Fornavn" : "Bjørnar",
+		"Etternavn" : "Holsen",
+		"Adresse" : "Nattlandsveien 43",
+		"PostNr" : "3209"
+	},
+	{
+		"KNr" : 5414,
+		"Fornavn" : "Brian",
+		"Etternavn" : "Holte",
+		"Adresse" : "Nedberget 49",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5415,
+		"Fornavn" : "Sebastian",
+		"Etternavn" : "Ofstad",
+		"Adresse" : "Zander Kaaes gate 13",
+		"PostNr" : "2943"
+	},
+	{
+		"KNr" : 5416,
+		"Fornavn" : "Dagny",
+		"Etternavn" : "Kvamme",
+		"Adresse" : "Sandviksleitet 24",
+		"PostNr" : "1286"
+	},
+	{
+		"KNr" : 5417,
+		"Fornavn" : "Brian",
+		"Etternavn" : "Holte",
+		"Adresse" : "Nedberget 49",
+		"PostNr" : "0988"
+	},
+	{
+		"KNr" : 5418,
+		"Fornavn" : "Adam",
+		"Etternavn" : "Loe",
+		"Adresse" : "Bjørkåsen 22",
+		"PostNr" : "1763"
+	},
+	{
+		"KNr" : 5419,
+		"Fornavn" : "Edny",
+		"Etternavn" : "Kvaal",
+		"Adresse" : "Sejersteds park 40",
+		"PostNr" : "0122"
+	},
+	{
+		"KNr" : 5420,
+		"Fornavn" : "Christiane",
+		"Etternavn" : "Gjerdrum",
+		"Adresse" : "Kaptein Amlands vei 18",
+		"PostNr" : "3750"
+	},
+	{
+		"KNr" : 5421,
+		"Fornavn" : "Celine",
+		"Etternavn" : "Ramberg",
+		"Adresse" : "Øvregaten 4",
+		"PostNr" : "3893"
+	},
+	{
+		"KNr" : 5422,
+		"Fornavn" : "Tony",
+		"Etternavn" : "Lauritzen",
+		"Adresse" : "Skjenlien 1",
+		"PostNr" : "6057"
+	},
+	{
+		"KNr" : 5423,
+		"Fornavn" : "Lucas",
+		"Etternavn" : "Kirkeby",
+		"Adresse" : "Petedalsheia 71",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5424,
+		"Fornavn" : "Nikolai",
+		"Etternavn" : "Knarvik",
+		"Adresse" : "Rognehaugen 41",
+		"PostNr" : "4742"
+	},
+	{
+		"KNr" : 5425,
+		"Fornavn" : "Trine-lise",
+		"Etternavn" : "Nilssen",
+		"Adresse" : "Vaskerelven 64",
+		"PostNr" : "4056"
+	},
+	{
+		"KNr" : 5426,
+		"Fornavn" : "Abdullah",
+		"Etternavn" : "Endal",
+		"Adresse" : "Gullfjellsvegen 9",
+		"PostNr" : "4004"
+	},
+	{
+		"KNr" : 5427,
+		"Fornavn" : "Gjert",
+		"Etternavn" : "Forland",
+		"Adresse" : "Hylkjeneset 67",
+		"PostNr" : "3126"
+	},
+	{
+		"KNr" : 5428,
+		"Fornavn" : "Per-arne",
+		"Etternavn" : "Guttormsen",
+		"Adresse" : "Krohnåsvegen 37",
+		"PostNr" : "6057"
+	},
+	{
+		"KNr" : 5429,
+		"Fornavn" : "Mohamed",
+		"Etternavn" : "Bremseth",
+		"Adresse" : "Engevikvegen 7B",
+		"PostNr" : "5859"
+	},
+	{
+		"KNr" : 5430,
+		"Fornavn" : "Steven",
+		"Etternavn" : "Oma",
+		"Adresse" : "Øvre Bjørkåsen 33",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5431,
+		"Fornavn" : "Eystein",
+		"Etternavn" : "Bakker",
+		"Adresse" : "Borgermester Platous gate 49",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5432,
+		"Fornavn" : "Karla",
+		"Etternavn" : "Hauglid",
+		"Adresse" : "Loddefjordveien 48",
+		"PostNr" : "1158"
+	},
+	{
+		"KNr" : 5433,
+		"Fornavn" : "Thea",
+		"Etternavn" : "Høvik",
+		"Adresse" : "Nordhordlandsvegen 34",
+		"PostNr" : "5501"
+	},
+	{
+		"KNr" : 5434,
+		"Fornavn" : "Rene",
+		"Etternavn" : "Bø",
+		"Adresse" : "Fjøsangerveien 71",
+		"PostNr" : "1892"
+	},
+	{
+		"KNr" : 5435,
+		"Fornavn" : "Marvin",
+		"Etternavn" : "Kjær",
+		"Adresse" : "Professor Keysers gate 11",
+		"PostNr" : "4150"
+	},
+	{
+		"KNr" : 5436,
+		"Fornavn" : "Marvin",
+		"Etternavn" : "Brattli",
+		"Adresse" : "Elvebakken 60",
+		"PostNr" : "3126"
+	},
+	{
+		"KNr" : 5437,
+		"Fornavn" : "Gjert",
+		"Etternavn" : "Forland",
+		"Adresse" : "Hylkjeneset 29",
+		"PostNr" : "1389"
+	},
+	{
+		"KNr" : 5438,
+		"Fornavn" : "Christer",
+		"Etternavn" : "Fimreite",
+		"Adresse" : "Henrik Jægers vei 27",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5439,
+		"Fornavn" : "Målfrid",
+		"Etternavn" : "Drage",
+		"Adresse" : "Fæstergrenden 64",
+		"PostNr" : "4742"
+	},
+	{
+		"KNr" : 5440,
+		"Fornavn" : "Ole-jørgen",
+		"Etternavn" : "Kongshaug",
+		"Adresse" : "Ruskeneshaugen 57",
+		"PostNr" : "1892"
+	},
+	{
+		"KNr" : 5441,
+		"Fornavn" : "Sven",
+		"Etternavn" : "Dammen",
+		"Adresse" : "Frieda Fasmers vei 43",
+		"PostNr" : "2808"
+	},
+	{
+		"KNr" : 5442,
+		"Fornavn" : "Oddlaug",
+		"Etternavn" : "Hognestad",
+		"Adresse" : "Myrdalshovden 20",
+		"PostNr" : "0122"
+	},
+	{
+		"KNr" : 5443,
+		"Fornavn" : "Ulf",
+		"Etternavn" : "Hegge",
+		"Adresse" : "Lyngberget 59",
+		"PostNr" : "5859"
+	},
+	{
+		"KNr" : 5444,
+		"Fornavn" : "Oddlaug",
+		"Etternavn" : "Hognestad",
+		"Adresse" : "Myrdalshovden 20",
+		"PostNr" : "0122"
+	},
+	{
+		"KNr" : 5445,
+		"Fornavn" : "Søren",
+		"Etternavn" : "Hasle",
+		"Adresse" : "Lilandsvegen 29",
+		"PostNr" : "4586"
+	},
+	{
+		"KNr" : 5446,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Blåbærvegen 6A",
+		"PostNr" : "3243"
+	},
+	{
+		"KNr" : 5447,
+		"Fornavn" : "Jacob",
+		"Etternavn" : "Bjerk",
+		"Adresse" : "Christian Michelsens gate 55",
+		"PostNr" : "0584"
+	},
+	{
+		"KNr" : 5448,
+		"Fornavn" : "Jakob",
+		"Etternavn" : "Mundal",
+		"Adresse" : "Tollbugata 53",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5449,
+		"Fornavn" : "Ailin",
+		"Etternavn" : "Fjellvang",
+		"Adresse" : "Hjortlandsvegen 52",
+		"PostNr" : "4993"
+	},
+	{
+		"KNr" : 5450,
+		"Fornavn" : "Gøril",
+		"Etternavn" : "Bjørke",
+		"Adresse" : "Bugården 2",
+		"PostNr" : "1414"
+	},
+	{
+		"KNr" : 5451,
+		"Fornavn" : "Mathilde",
+		"Etternavn" : "Hessen",
+		"Adresse" : "Midtunstien 54",
+		"PostNr" : "3484"
+	},
+	{
+		"KNr" : 5452,
+		"Fornavn" : "Adam",
+		"Etternavn" : "Lone",
+		"Adresse" : "St. Olavs vei 1",
+		"PostNr" : "0587"
+	},
+	{
+		"KNr" : 5453,
+		"Fornavn" : "Oddvin",
+		"Etternavn" : "Kolnes",
+		"Adresse" : "Ross-smauet 21",
+		"PostNr" : "3691"
+	},
+	{
+		"KNr" : 5454,
+		"Fornavn" : "Jone",
+		"Etternavn" : "Myrhaug",
+		"Adresse" : "Trangesmauet 1",
+		"PostNr" : "1747"
+	},
+	{
+		"KNr" : 5455,
+		"Fornavn" : "Celine",
+		"Etternavn" : "Ramberg",
+		"Adresse" : "Øvregaten 4",
+		"PostNr" : "2011"
+	},
+	{
+		"KNr" : 5456,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "C. J. Hambros vei 6",
+		"PostNr" : "0122"
+	},
+	{
+		"KNr" : 5457,
+		"Fornavn" : "Oddvin",
+		"Etternavn" : "Kolnes",
+		"Adresse" : "Ross-smauet 51",
+		"PostNr" : "5598"
+	},
+	{
+		"KNr" : 5458,
+		"Fornavn" : "Andres",
+		"Etternavn" : "Hjelm",
+		"Adresse" : "Morvikbotn 1",
+		"PostNr" : "0015"
+	},
+	{
+		"KNr" : 5459,
+		"Fornavn" : "Jone",
+		"Etternavn" : "Myrhaug",
+		"Adresse" : "Trangesmauet 1",
+		"PostNr" : "5445"
+	},
+	{
+		"KNr" : 5460,
+		"Fornavn" : "Thore",
+		"Etternavn" : "Hauan",
+		"Adresse" : "Lindealléen 39",
+		"PostNr" : "2302"
+	},
+	{
+		"KNr" : 5461,
+		"Fornavn" : "Marvin",
+		"Etternavn" : "Brattli",
+		"Adresse" : "Elvebakken 67",
+		"PostNr" : "2808"
+	},
+	{
+		"KNr" : 5462,
+		"Fornavn" : "Villy",
+		"Etternavn" : "Lian",
+		"Adresse" : "Skytterveien 24",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5463,
+		"Fornavn" : "Veslemøy",
+		"Etternavn" : "Nordbø",
+		"Adresse" : "Vesthagen 6",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5464,
+		"Fornavn" : "Wanja",
+		"Etternavn" : "Nordhaug",
+		"Adresse" : "Vestre Murallmenningen 14",
+		"PostNr" : "4150"
+	},
+	{
+		"KNr" : 5466,
+		"Fornavn" : "David",
+		"Etternavn" : "Astrup",
+		"Adresse" : "Bjørndalsbrotet 21",
+		"PostNr" : "4032"
+	},
+	{
+		"KNr" : 5467,
+		"Fornavn" : "Oddlaug",
+		"Etternavn" : "Hognestad",
+		"Adresse" : "Myrdalshovden 20",
+		"PostNr" : "0122"
+	},
+	{
+		"KNr" : 5468,
+		"Fornavn" : "Abdullah",
+		"Etternavn" : "Endal",
+		"Adresse" : "Gullfjellsvegen 9",
+		"PostNr" : "3371"
+	},
+	{
+		"KNr" : 5469,
+		"Fornavn" : "Elias",
+		"Etternavn" : "Husabø",
+		"Adresse" : "Neshaugen 69",
+		"PostNr" : "3471"
+	},
+	{
+		"KNr" : 5470,
+		"Fornavn" : "Jone",
+		"Etternavn" : "Myrhaug",
+		"Adresse" : "Trangesmauet 1",
+		"PostNr" : "2011"
+	},
+	{
+		"KNr" : 5471,
+		"Fornavn" : "Ole-jørgen",
+		"Etternavn" : "Kongshaug",
+		"Adresse" : "Ruskeneshaugen 57",
+		"PostNr" : "4265"
+	},
+	{
+		"KNr" : 5472,
+		"Fornavn" : "Jørund",
+		"Etternavn" : "Gjelsten",
+		"Adresse" : "Kalihaugen 11",
+		"PostNr" : "5598"
+	},
+	{
+		"KNr" : 5473,
+		"Fornavn" : "Gøril",
+		"Etternavn" : "Bjørke",
+		"Adresse" : "Dokkeboder 21",
+		"PostNr" : "2309"
+	},
+	{
+		"KNr" : 5474,
+		"Fornavn" : "Joakim",
+		"Etternavn" : "Garnes",
+		"Adresse" : "Jonsterhaugskiftet 67",
+		"PostNr" : "2025"
+	},
+	{
+		"KNr" : 5475,
+		"Fornavn" : "Oddbjørn",
+		"Etternavn" : "Brunstad",
+		"Adresse" : "Fagertunvegen 29",
+		"PostNr" : "1286"
+	},
+	{
+		"KNr" : 5476,
+		"Fornavn" : "Gøril",
+		"Etternavn" : "Bjørke",
+		"Adresse" : "Dynevoll 2",
+		"PostNr" : "4004"
+	},
+	{
+		"KNr" : 5477,
+		"Fornavn" : "Målfrid",
+		"Etternavn" : "Drage",
+		"Adresse" : "Fæstergrenden 64",
+		"PostNr" : "5903"
+	},
+	{
+		"KNr" : 5478,
+		"Fornavn" : "Elias",
+		"Etternavn" : "Husabø",
+		"Adresse" : "Neshaugen 69",
+		"PostNr" : "4586"
+	},
+	{
+		"KNr" : 5479,
+		"Fornavn" : "Ada",
+		"Etternavn" : "Jørstad",
+		"Adresse" : "Oldernesveien 50",
+		"PostNr" : "0455"
+	},
+	{
+		"KNr" : 5480,
+		"Fornavn" : "Tatiana",
+		"Etternavn" : "Høie",
+		"Adresse" : "Nordeidstølen 28",
+		"PostNr" : "0587"
+	},
+	{
+		"KNr" : 5481,
+		"Fornavn" : "Stephanie",
+		"Etternavn" : "Eng",
+		"Adresse" : "Gullstølslien 12",
+		"PostNr" : "4896"
+	},
+	{
+		"KNr" : 5482,
+		"Fornavn" : "Carsten",
+		"Etternavn" : "Askildsen",
+		"Adresse" : "Bjørgebrekken 9",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5483,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Erdalsvegen 6F",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5484,
+		"Fornavn" : "Abdullah",
+		"Etternavn" : "Endal",
+		"Adresse" : "Gullfjellsvegen 9",
+		"PostNr" : "5845"
+	},
+	{
+		"KNr" : 5485,
+		"Fornavn" : "Torje",
+		"Etternavn" : "Ottesen",
+		"Adresse" : "Øvre Titlestad 13",
+		"PostNr" : "2607"
+	},
+	{
+		"KNr" : 5486,
+		"Fornavn" : "Wanja",
+		"Etternavn" : "Nordhaug",
+		"Adresse" : "Vestre Murallmenningen 14",
+		"PostNr" : "1605"
+	},
+	{
+		"KNr" : 5488,
+		"Fornavn" : "Veslemøy",
+		"Etternavn" : "Nordbø",
+		"Adresse" : "Vesthagen 6",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5489,
+		"Fornavn" : "Emilie",
+		"Etternavn" : "Grude",
+		"Adresse" : "Klostersmauet 74",
+		"PostNr" : "2825"
+	},
+	{
+		"KNr" : 5490,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Elgvegenn 6",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5491,
+		"Fornavn" : "Dagny",
+		"Etternavn" : "Kvamme",
+		"Adresse" : "Sandviksleitet 24",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5492,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Fabrikkgaten 56",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5493,
+		"Fornavn" : "Olve",
+		"Etternavn" : "Gundersen",
+		"Adresse" : "Kringlebotn 25",
+		"PostNr" : "3683"
+	},
+	{
+		"KNr" : 5494,
+		"Fornavn" : "Emilie",
+		"Etternavn" : "Grude",
+		"Adresse" : "Klostersmauet 74",
+		"PostNr" : "2825"
+	},
+	{
+		"KNr" : 5495,
+		"Fornavn" : "Agnar",
+		"Etternavn" : "Engelsen",
+		"Adresse" : "Gårdsvegen 21",
+		"PostNr" : "5859"
+	},
+	{
+		"KNr" : 5496,
+		"Fornavn" : "Ole-jørgen",
+		"Etternavn" : "Kongshaug",
+		"Adresse" : "Ruskeneshaugen 57",
+		"PostNr" : "2943"
+	},
+	{
+		"KNr" : 5497,
+		"Fornavn" : "Stephen",
+		"Etternavn" : "Olsvik",
+		"Adresse" : "Øvre alle 31",
+		"PostNr" : "3471"
+	},
+	{
+		"KNr" : 5498,
+		"Fornavn" : "Veslemøy",
+		"Etternavn" : "Nordbø",
+		"Adresse" : "Vesthagen 46",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5499,
+		"Fornavn" : "Ismail",
+		"Etternavn" : "Furu",
+		"Adresse" : "JensRolfsens gate 47",
+		"PostNr" : "5035"
+	},
+	{
+		"KNr" : 5500,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Skipanesvegen 4A",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5501,
+		"Fornavn" : "Villy",
+		"Etternavn" : "Lian",
+		"Adresse" : "Skytterveien 24",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5502,
+		"Fornavn" : "Karla",
+		"Etternavn" : "Hauglid",
+		"Adresse" : "Loddefjordveien 48",
+		"PostNr" : "4150"
+	},
+	{
+		"KNr" : 5503,
+		"Fornavn" : "Jakob",
+		"Etternavn" : "Mundal",
+		"Adresse" : "Tollbugata 53",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5504,
+		"Fornavn" : "Villy",
+		"Etternavn" : "Lian",
+		"Adresse" : "Skytterveien 24",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5505,
+		"Fornavn" : "Ada",
+		"Etternavn" : "Fiske",
+		"Adresse" : "Hesthaugvegen 36",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5506,
+		"Fornavn" : "Fatma",
+		"Etternavn" : "Grønnevik",
+		"Adresse" : "Kollåsen 74",
+		"PostNr" : "0579"
+	},
+	{
+		"KNr" : 5507,
+		"Fornavn" : "Jarand",
+		"Etternavn" : "Mydland",
+		"Adresse" : "Tordenskjolds gate 57",
+		"PostNr" : "4742"
+	},
+	{
+		"KNr" : 5508,
+		"Fornavn" : "Carsten",
+		"Etternavn" : "Askildsen",
+		"Adresse" : "Bjørgebrekken 9",
+		"PostNr" : "0760"
+	},
+	{
+		"KNr" : 5509,
+		"Fornavn" : "Torje",
+		"Etternavn" : "Ottesen",
+		"Adresse" : "Fiolveien 1",
+		"PostNr" : "4586"
+	},
+	{
+		"KNr" : 5510,
+		"Fornavn" : "Ingmar",
+		"Etternavn" : "Bhatti",
+		"Adresse" : "Bønesheien 45",
+		"PostNr" : "5035"
+	},
+	{
+		"KNr" : 5511,
+		"Fornavn" : "Trine-lise",
+		"Etternavn" : "Nilssen",
+		"Adresse" : "Vaskerelven 64",
+		"PostNr" : "0270"
+	},
+	{
+		"KNr" : 5512,
+		"Fornavn" : "Ali",
+		"Etternavn" : "Lunden",
+		"Adresse" : "Starefoss-svingen 15",
+		"PostNr" : "5859"
+	},
+	{
+		"KNr" : 5513,
+		"Fornavn" : "Målfrid",
+		"Etternavn" : "Drage",
+		"Adresse" : "Fæstergrenden 64",
+		"PostNr" : "1767"
+	},
+	{
+		"KNr" : 5514,
+		"Fornavn" : "Ingmar",
+		"Etternavn" : "Bhatti",
+		"Adresse" : "Bønesheien 45",
+		"PostNr" : "2015"
+	},
+	{
+		"KNr" : 5515,
+		"Fornavn" : "Mathis",
+		"Etternavn" : "Bratvold",
+		"Adresse" : "Elvegaten 69",
+		"PostNr" : "5035"
+	},
+	{
+		"KNr" : 5516,
+		"Fornavn" : "Ada",
+		"Etternavn" : "Fiske",
+		"Adresse" : "Hesthaugvegen 36",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5517,
+		"Fornavn" : "Olve",
+		"Etternavn" : "Gundersen",
+		"Adresse" : "Kringlebotn 25",
+		"PostNr" : "6398"
+	},
+	{
+		"KNr" : 5518,
+		"Fornavn" : "Ali",
+		"Etternavn" : "Lunden",
+		"Adresse" : "Starefoss-svingen 15",
+		"PostNr" : "2808"
+	},
+	{
+		"KNr" : 5519,
+		"Fornavn" : "Asgeir",
+		"Etternavn" : "Alvær",
+		"Adresse" : "Balders veg 23",
+		"PostNr" : "5260"
+	},
+	{
+		"KNr" : 5520,
+		"Fornavn" : "Mathilde",
+		"Etternavn" : "Hessen",
+		"Adresse" : "Midtunstien 54",
+		"PostNr" : "4742"
+	},
+	{
+		"KNr" : 5521,
+		"Fornavn" : "Madelen",
+		"Etternavn" : "Mahmood",
+		"Adresse" : "Straumeveien 2",
+		"PostNr" : "4398"
+	},
+	{
+		"KNr" : 5522,
+		"Fornavn" : "Odvar",
+		"Etternavn" : "Bryhn",
+		"Adresse" : "Fanafjellsvegen 35",
+		"PostNr" : "4523"
+	},
+	{
+		"KNr" : 5523,
+		"Fornavn" : "Sven",
+		"Etternavn" : "Dammen",
+		"Adresse" : "Fosswinckels gate 43",
+		"PostNr" : "5258"
+	},
+	{
+		"KNr" : 5524,
+		"Fornavn" : "Veslemøy",
+		"Etternavn" : "Nordbø",
+		"Adresse" : "Vesthagen 7",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5525,
+		"Fornavn" : "Mimmi",
+		"Etternavn" : "Dirdal",
+		"Adresse" : "Furubotn 56",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5526,
+		"Fornavn" : "Villy",
+		"Etternavn" : "Lian",
+		"Adresse" : "Skytterveien 24",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5527,
+		"Fornavn" : "Alex",
+		"Etternavn" : "Akselsen",
+		"Adresse" : "Arnoldus Reimers' gate 24",
+		"PostNr" : "5859"
+	},
+	{
+		"KNr" : 5528,
+		"Fornavn" : "Ingmar",
+		"Etternavn" : "Morken",
+		"Adresse" : "Thomasstien 41C",
+		"PostNr" : "1719"
+	},
+	{
+		"KNr" : 5529,
+		"Fornavn" : "Jakob",
+		"Etternavn" : "Mundal",
+		"Adresse" : "Tollbugata 53",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5530,
+		"Fornavn" : "Amina",
+		"Etternavn" : "Alexandersen",
+		"Adresse" : "Asylplassen 2",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5531,
+		"Fornavn" : "Ismail",
+		"Etternavn" : "Furu",
+		"Adresse" : "Glasskaret 47",
+		"PostNr" : "0988"
+	},
+	{
+		"KNr" : 5532,
+		"Fornavn" : "Gøril",
+		"Etternavn" : "Bjørke",
+		"Adresse" : "Gjøas vei 87",
+		"PostNr" : "4174"
+	},
+	{
+		"KNr" : 5533,
+		"Fornavn" : "Ian",
+		"Etternavn" : "Berre",
+		"Adresse" : "Bøkestien 39",
+		"PostNr" : "0602"
+	},
+	{
+		"KNr" : 5534,
+		"Fornavn" : "Abdi",
+		"Etternavn" : "Ekeberg",
+		"Adresse" : "Grendatunvegen 53",
+		"PostNr" : "0584"
+	},
+	{
+		"KNr" : 5535,
+		"Fornavn" : "Oddlaug",
+		"Etternavn" : "Hognestad",
+		"Adresse" : "Myrdalshovden 20",
+		"PostNr" : "0122"
+	},
+	{
+		"KNr" : 5536,
+		"Fornavn" : "Adam",
+		"Etternavn" : "Hestad",
+		"Adresse" : "Midtunvegen 55",
+		"PostNr" : "2943"
+	},
+	{
+		"KNr" : 5537,
+		"Fornavn" : "Søren",
+		"Etternavn" : "Hasle",
+		"Adresse" : "Lilandsvegen 29",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5538,
+		"Fornavn" : "Torje",
+		"Etternavn" : "Ottesen",
+		"Adresse" : "Øvre titlestad 1",
+		"PostNr" : "3893"
+	},
+	{
+		"KNr" : 5539,
+		"Fornavn" : "Marvin",
+		"Etternavn" : "Brattli",
+		"Adresse" : "Elvebakken 67",
+		"PostNr" : "4586"
+	},
+	{
+		"KNr" : 5540,
+		"Fornavn" : "Villy",
+		"Etternavn" : "Lian",
+		"Adresse" : "Skytterveien 24",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5541,
+		"Fornavn" : "Adrian",
+		"Etternavn" : "Elvestad",
+		"Adresse" : "Grøvlesvingen 5",
+		"PostNr" : "5859"
+	},
+	{
+		"KNr" : 5542,
+		"Fornavn" : "Maren",
+		"Etternavn" : "Martens",
+		"Adresse" : "Sukkerhusgaten 18",
+		"PostNr" : "2847"
+	},
+	{
+		"KNr" : 5543,
+		"Fornavn" : "Ronnie",
+		"Etternavn" : "Hall",
+		"Adresse" : "Kvitura 59",
+		"PostNr" : "3151"
+	},
+	{
+		"KNr" : 5544,
+		"Fornavn" : "Oddlaug",
+		"Etternavn" : "Hognestad",
+		"Adresse" : "Myrdalshovden 20",
+		"PostNr" : "1892"
+	},
+	{
+		"KNr" : 5545,
+		"Fornavn" : "May-Britt",
+		"Etternavn" : "Hestnes",
+		"Adresse" : "Minde allé 58",
+		"PostNr" : "1581"
+	},
+	{
+		"KNr" : 5546,
+		"Fornavn" : "Odvar",
+		"Etternavn" : "Kolstad",
+		"Adresse" : "Rotvollen 53",
+		"PostNr" : "5614"
+	},
+	{
+		"KNr" : 5547,
+		"Fornavn" : "Carsten",
+		"Etternavn" : "Askildsen",
+		"Adresse" : "Bjørgebrekken 9",
+		"PostNr" : "4322"
+	},
+	{
+		"KNr" : 5548,
+		"Fornavn" : "Marvin",
+		"Etternavn" : "Brattli",
+		"Adresse" : "Elvebakken 67",
+		"PostNr" : "5035"
+	},
+	{
+		"KNr" : 5549,
+		"Fornavn" : "David",
+		"Etternavn" : "Astrup",
+		"Adresse" : "Bjørndalsbrotet 21",
+		"PostNr" : "2302"
+	},
+	{
+		"KNr" : 5550,
+		"Fornavn" : "Jakob",
+		"Etternavn" : "Mundal",
+		"Adresse" : "Tollbugata 53",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5551,
+		"Fornavn" : "Edny",
+		"Etternavn" : "Kvaal",
+		"Adresse" : "Sejersteds park 40",
+		"PostNr" : "4596"
+	},
+	{
+		"KNr" : 5552,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Gåsestien 134",
+		"PostNr" : "1892"
+	},
+	{
+		"KNr" : 5553,
+		"Fornavn" : "Kristen",
+		"Etternavn" : "Gjøsund",
+		"Adresse" : "Kiplelien 31",
+		"PostNr" : "5260"
+	},
+	{
+		"KNr" : 5554,
+		"Fornavn" : "Noah",
+		"Etternavn" : "Nordlund",
+		"Adresse" : "Vestre solheia 21",
+		"PostNr" : "4808"
+	},
+	{
+		"KNr" : 5555,
+		"Fornavn" : "Ada",
+		"Etternavn" : "Fiske",
+		"Adresse" : "Hesthaugvegen 36",
+		"PostNr" : "5282"
+	},
+	{
+		"KNr" : 5556,
+		"Fornavn" : "Søren",
+		"Etternavn" : "Hasle",
+		"Adresse" : "Lilandsvegen 29",
+		"PostNr" : "2206"
+	},
+	{
+		"KNr" : 5557,
+		"Fornavn" : "Ingmar",
+		"Etternavn" : "Morken",
+		"Adresse" : "Thomasstien 41",
+		"PostNr" : "1719"
+	},
+	{
+		"KNr" : 5558,
+		"Fornavn" : "Venke",
+		"Etternavn" : "Nordang",
+		"Adresse" : "Verftstrappen 2",
+		"PostNr" : "3216"
+	},
+	{
+		"KNr" : 5559,
+		"Fornavn" : "Mimmi",
+		"Etternavn" : "Dirdal",
+		"Adresse" : "Furubotn 56",
+		"PostNr" : "2825"
+	},
+	{
+		"KNr" : 5560,
+		"Fornavn" : "Marlen",
+		"Etternavn" : "Hepsø",
+		"Adresse" : "Merkurvegen 42",
+		"PostNr" : "4276"
+	},
+	{
+		"KNr" : 5561,
+		"Fornavn" : "Karla",
+		"Etternavn" : "Hauglid",
+		"Adresse" : "Loddefjordveien 48",
+		"PostNr" : "0015"
+	},
+	{
+		"KNr" : 5562,
+		"Fornavn" : "Elias",
+		"Etternavn" : "Husabø",
+		"Adresse" : "Neshaugen 69",
+		"PostNr" : "6212"
+	},
+	{
+		"KNr" : 5563,
+		"Fornavn" : "Svenn",
+		"Etternavn" : "Langen",
+		"Adresse" : "Sjømarkvegen 63",
+		"PostNr" : "3800"
+	},
+	{
+		"KNr" : 5564,
+		"Fornavn" : "Agathe",
+		"Etternavn" : "Johnstad",
+		"Adresse" : "Nøttveitlia 34",
+		"PostNr" : "5232"
+	},
+	{
+		"KNr" : 5565,
+		"Fornavn" : "Olve",
+		"Etternavn" : "Gundersen",
+		"Adresse" : "Kringlebotn 25",
+		"PostNr" : "1892"
+	},
+	{
+		"KNr" : 5566,
+		"Fornavn" : "Ingve",
+		"Etternavn" : "Moseng",
+		"Adresse" : "Tipphaugen 45",
+		"PostNr" : "0015"
+	},
+	{
+		"KNr" : 5567,
+		"Fornavn" : "Alex",
+		"Etternavn" : "Lunde",
+		"Adresse" : "Starefossbakken 21",
+		"PostNr" : "2607"
+	},
+	{
+		"KNr" : 5568,
+		"Fornavn" : "Kaj",
+		"Etternavn" : "Mælen",
+		"Adresse" : "Trosteveien 19",
+		"PostNr" : "5035"
+	},
+	{
+		"KNr" : 5569,
+		"Fornavn" : "Ali",
+		"Etternavn" : "Lunden",
+		"Adresse" : "Starefoss-svingen 15",
+		"PostNr" : "0565"
+	},
+	{
+		"KNr" : 5570,
+		"Fornavn" : "Stephanie",
+		"Etternavn" : "Eng",
+		"Adresse" : "Gullstølslien 12",
+		"PostNr" : "4398"
+	},
+	{
+		"KNr" : 5571,
+		"Fornavn" : "Celine",
+		"Etternavn" : "Kruse",
+		"Adresse" : "Sanddalsvegen 10D",
+		"PostNr" : "1617"
+	},
+	{
+		"KNr" : 5572,
+		"Fornavn" : "Abdullah",
+		"Etternavn" : "Endal",
+		"Adresse" : "Gullfjellsvegen 9",
+		"PostNr" : "3221"
+	},
+	{
+		"KNr" : 5573,
+		"Fornavn" : "Paul",
+		"Etternavn" : "Gustavson",
+		"Adresse" : "Krohnengssmauet 35",
+		"PostNr" : "5859"
+	},
+	{
+		"KNr" : 5574,
+		"Fornavn" : "Trine-lise",
+		"Etternavn" : "Nilssen",
+		"Adresse" : "Vaskerelven 64B",
+		"PostNr" : "1892"
+	},
+	{
+		"KNr" : 5575,
+		"Fornavn" : "Gøril",
+		"Etternavn" : "Bjørke",
+		"Adresse" : "Liheia 25",
+		"PostNr" : "4004"
+	},
+	{
+		"KNr" : 5576,
+		"Fornavn" : "Paul",
+		"Etternavn" : "Gustavson",
+		"Adresse" : "Krohnengssmauet 35",
+		"PostNr" : "0015"
+	},
+	{
+		"KNr" : 5577,
+		"Fornavn" : "Karla",
+		"Etternavn" : "Hauglid",
+		"Adresse" : "Loddefjordveien 48",
+		"PostNr" : "0122"
+	},
+	{
+		"KNr" : 5578,
+		"Fornavn" : "Laura",
+		"Etternavn" : "Løset",
+		"Adresse" : "Storetveitvegen 52",
+		"PostNr" : "2851"
+	},
+	{
+		"KNr" : 5579,
+		"Fornavn" : "Anne-Kari",
+		"Etternavn" : "Kjelstad",
+		"Adresse" : "Professor Arentz' gate 8",
+		"PostNr" : "2020"
+	},
+	{
+		"KNr" : 5580,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Skipanesvegen 6",
+		"PostNr" : "1892"
+	},
+	{
+		"KNr" : 5581,
+		"Fornavn" : "Mohamed",
+		"Etternavn" : "Bremseth",
+		"Adresse" : "Engevikvegen 7",
+		"PostNr" : "5035"
+	},
+	{
+		"KNr" : 5582,
+		"Fornavn" : "Kristen",
+		"Etternavn" : "Gjøsund",
+		"Adresse" : "Kiplelien 31",
+		"PostNr" : "5260"
+	},
+	{
+		"KNr" : 5583,
+		"Fornavn" : "Marvin",
+		"Etternavn" : "Brattli",
+		"Adresse" : "Elvebakken 67",
+		"PostNr" : "5258"
+	},
+	{
+		"KNr" : 5584,
+		"Fornavn" : "Simon",
+		"Etternavn" : "Claussen",
+		"Adresse" : "Forvasshaugen 25",
+		"PostNr" : "2334"
+	},
+	{
+		"KNr" : 5585,
+		"Fornavn" : "Amalie",
+		"Etternavn" : "Albrigtsen",
+		"Adresse" : "Askøyveien 27",
+		"PostNr" : "5258"
+	},
+	{
+		"KNr" : 5586,
+		"Fornavn" : "Elias",
+		"Etternavn" : "Husabø",
+		"Adresse" : "Neshaugen 69",
+		"PostNr" : "5202"
+	},
+	{
+		"KNr" : 5587,
+		"Fornavn" : "Gøril",
+		"Etternavn" : "Bjørke",
+		"Adresse" : "Jordbærstedet",
+		"PostNr" : "5202"
+	},
+	{
+		"KNr" : 5588,
+		"Fornavn" : "Olve",
+		"Etternavn" : "Gundersen",
+		"Adresse" : "Kringlebotn 25",
+		"PostNr" : "1539"
+	},
+	{
+		"KNr" : 5589,
+		"Fornavn" : "Søren",
+		"Etternavn" : "Opedal",
+		"Adresse" : "Øvre gyldenprisveien 45",
+		"PostNr" : "3885"
+	},
+	{
+		"KNr" : 5590,
+		"Fornavn" : "Thore",
+		"Etternavn" : "Hauan",
+		"Adresse" : "Lindealléen 39",
+		"PostNr" : "1605"
+	},
+	{
+		"KNr" : 5591,
+		"Fornavn" : "Idar",
+		"Etternavn" : "Frøyland",
+		"Adresse" : "Janahaugen 37",
+		"PostNr" : "3199"
+	},
+	{
+		"KNr" : 5592,
+		"Fornavn" : "Jørund",
+		"Etternavn" : "Gjelsten",
+		"Adresse" : "Kalihaugen 11",
+		"PostNr" : "5859"
+	},
+	{
+		"KNr" : 5593,
+		"Fornavn" : "Trine-lise",
+		"Etternavn" : "Nilssen",
+		"Adresse" : "Vaskerelven 64",
+		"PostNr" : "4993"
+	},
+	{
+		"KNr" : 5594,
+		"Fornavn" : "Marvin",
+		"Etternavn" : "Brattli",
+		"Adresse" : "Elvebakken 67",
+		"PostNr" : "0122"
+	},
+	{
+		"KNr" : 5595,
+		"Fornavn" : "Bjørnar",
+		"Etternavn" : "Holsen",
+		"Adresse" : "Nattlandsveien 43",
+		"PostNr" : "3885"
+	},
+	{
+		"KNr" : 5596,
+		"Fornavn" : "Mikkel",
+		"Etternavn" : "Kleiveland",
+		"Adresse" : "Ravns gate 23",
+		"PostNr" : "1284"
+	},
+	{
+		"KNr" : 5597,
+		"Fornavn" : "Lucas",
+		"Etternavn" : "Kirkeby",
+		"Adresse" : "Petedalsheia 71",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5598,
+		"Fornavn" : "Ian",
+		"Etternavn" : "Berre",
+		"Adresse" : "Bøkestien 39",
+		"PostNr" : "5630"
+	},
+	{
+		"KNr" : 5599,
+		"Fornavn" : "Karla",
+		"Etternavn" : "Hauglid",
+		"Adresse" : "Loddefjordveien 48",
+		"PostNr" : "3243"
+	},
+	{
+		"KNr" : 5600,
+		"Fornavn" : "Brian",
+		"Etternavn" : "Holte",
+		"Adresse" : "Nedberget 49",
+		"PostNr" : "0988"
+	},
+	{
+		"KNr" : 5601,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Skipanesvegen 6",
+		"PostNr" : "0988"
+	},
+	{
+		"KNr" : 5602,
+		"Fornavn" : "Ronnie",
+		"Etternavn" : "Hall",
+		"Adresse" : "Kvitura 59",
+		"PostNr" : "1747"
+	},
+	{
+		"KNr" : 5603,
+		"Fornavn" : "Ingmar",
+		"Etternavn" : "Bhatti",
+		"Adresse" : "Bønesheien 45A",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5604,
+		"Fornavn" : "Adam",
+		"Etternavn" : "Loe",
+		"Adresse" : "St. Halvards vei 22",
+		"PostNr" : "0452"
+	},
+	{
+		"KNr" : 5605,
+		"Fornavn" : "Adam",
+		"Etternavn" : "Loe",
+		"Adresse" : "St. Halvards vei 22",
+		"PostNr" : "2007"
+	},
+	{
+		"KNr" : 5606,
+		"Fornavn" : "Ole-jørgen",
+		"Etternavn" : "Kongshaug",
+		"Adresse" : "Ruskeneshaugen 57",
+		"PostNr" : "2943"
+	},
+	{
+		"KNr" : 5607,
+		"Fornavn" : "Amina",
+		"Etternavn" : "Alexandersen",
+		"Adresse" : "Kipo",
+		"PostNr" : "5141"
+	},
+	{
+		"KNr" : 5608,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Skipsgata 4",
+		"PostNr" : "4174"
+	},
+	{
+		"KNr" : 5609,
+		"Fornavn" : "Sebastian",
+		"Etternavn" : "Kvia",
+		"Adresse" : "Seimshovden 35",
+		"PostNr" : "3199"
+	},
+	{
+		"KNr" : 5610,
+		"Fornavn" : "Dagny",
+		"Etternavn" : "Kvamme",
+		"Adresse" : "Sandviksleitet 24",
+		"PostNr" : "0015"
+	},
+	{
+		"KNr" : 5611,
+		"Fornavn" : "Trine-lise",
+		"Etternavn" : "Nilssen",
+		"Adresse" : "Vaskerelven 64",
+		"PostNr" : "1605"
+	},
+	{
+		"KNr" : 5612,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Skipanesvegen 6",
+		"PostNr" : "0971"
+	},
+	{
+		"KNr" : 5613,
+		"Fornavn" : "Ismail",
+		"Etternavn" : "Furu",
+		"Adresse" : "Koengen 47",
+		"PostNr" : "5457"
+	},
+	{
+		"KNr" : 5614,
+		"Fornavn" : "Dagny",
+		"Etternavn" : "Kvamme",
+		"Adresse" : "Sandviksleitet 24",
+		"PostNr" : "4004"
+	},
+	{
+		"KNr" : 5615,
+		"Fornavn" : "Jofrid",
+		"Etternavn" : "Lorentzen",
+		"Adresse" : "Stabburvegen 4",
+		"PostNr" : "2015"
+	},
+	{
+		"KNr" : 5616,
+		"Fornavn" : "Adam",
+		"Etternavn" : "Hestad",
+		"Adresse" : "Midtunvegen 55",
+		"PostNr" : "0579"
+	},
+	{
+		"KNr" : 5618,
+		"Fornavn" : "Karla",
+		"Etternavn" : "Hauglid",
+		"Adresse" : "Loddefjordveien 48",
+		"PostNr" : "3126"
+	},
+	{
+		"KNr" : 5619,
+		"Fornavn" : "Nikolai",
+		"Etternavn" : "Brudvik",
+		"Adresse" : "Fagerbakkvegen 23E",
+		"PostNr" : "3750"
+	},
+	{
+		"KNr" : 5620,
+		"Fornavn" : "Ørjan",
+		"Etternavn" : "Lilleberg",
+		"Adresse" : "Slåtthauglia 9",
+		"PostNr" : "1401"
+	},
+	{
+		"KNr" : 5621,
+		"Fornavn" : "Elias",
+		"Etternavn" : "Husabø",
+		"Adresse" : "Neshaugen 99",
+		"PostNr" : "4742"
+	},
+	{
+		"KNr" : 5622,
+		"Fornavn" : "Heine",
+		"Etternavn" : "Ibrahim",
+		"Adresse" : "Nordre skogveien 57",
+		"PostNr" : "6398"
+	},
+	{
+		"KNr" : 5623,
+		"Fornavn" : "Gjert",
+		"Etternavn" : "Forland",
+		"Adresse" : "Hylkjeneset 101",
+		"PostNr" : "2206"
+	},
+	{
+		"KNr" : 5624,
+		"Fornavn" : "Ronnie",
+		"Etternavn" : "Hall",
+		"Adresse" : "Kvitura 59",
+		"PostNr" : "0452"
+	},
+	{
+		"KNr" : 5625,
+		"Fornavn" : "Carsten",
+		"Etternavn" : "Askildsen",
+		"Adresse" : "Bjørgebrekken 9",
+		"PostNr" : "5258"
+	},
+	{
+		"KNr" : 5626,
+		"Fornavn" : "David",
+		"Etternavn" : "Astrup",
+		"Adresse" : "Bjørndalsbrotet 21",
+		"PostNr" : "3893"
+	},
+	{
+		"KNr" : 5627,
+		"Fornavn" : "Gitte",
+		"Etternavn" : "Grøstad",
+		"Adresse" : "Kong oscars gate 8",
+		"PostNr" : "4993"
+	},
+	{
+		"KNr" : 5628,
+		"Fornavn" : "Carsten",
+		"Etternavn" : "Askildsen",
+		"Adresse" : "Bjørgebrekken 9",
+		"PostNr" : "0452"
+	},
+	{
+		"KNr" : 5629,
+		"Fornavn" : "Markus",
+		"Etternavn" : "Bratlie",
+		"Adresse" : "Elsters gate 65",
+		"PostNr" : "4586"
+	},
+	{
+		"KNr" : 5630,
+		"Fornavn" : "Thea",
+		"Etternavn" : "Høvik",
+		"Adresse" : "Nordhordlandsvegen 34",
+		"PostNr" : "1215"
+	},
+	{
+		"KNr" : 5631,
+		"Fornavn" : "Noah",
+		"Etternavn" : "Grønvik",
+		"Adresse" : "Kolåshøyen 5",
+		"PostNr" : "5614"
+	},
+	{
+		"KNr" : 5632,
+		"Fornavn" : "Trine-lise",
+		"Etternavn" : "Nilssen",
+		"Adresse" : "Vaskerelven 64",
+		"PostNr" : "3126"
+	},
+	{
+		"KNr" : 5633,
+		"Fornavn" : "Karla",
+		"Etternavn" : "Hauglid",
+		"Adresse" : "Loddefjordveien 48",
+		"PostNr" : "1158"
+	},
+	{
+		"KNr" : 5634,
+		"Fornavn" : "Trine-lise",
+		"Etternavn" : "Nilssen",
+		"Adresse" : "Vaskerelven 64",
+		"PostNr" : "3126"
+	},
+	{
+		"KNr" : 5635,
+		"Fornavn" : "Lucas",
+		"Etternavn" : "Kirkeby",
+		"Adresse" : "Petedalsheia 71",
+		"PostNr" : "4004"
+	},
+	{
+		"KNr" : 5636,
+		"Fornavn" : "Hildegunn",
+		"Etternavn" : "Liland",
+		"Adresse" : "Slottsgaten 8",
+		"PostNr" : "5072"
+	},
+	{
+		"KNr" : 5637,
+		"Fornavn" : "Mathilde",
+		"Etternavn" : "Hessen",
+		"Adresse" : "Midtunstien 54",
+		"PostNr" : "5202"
+	},
+	{
+		"KNr" : 5638,
+		"Fornavn" : "Trine-lise",
+		"Etternavn" : "Nilssen",
+		"Adresse" : "Vaskerelven 64",
+		"PostNr" : "3484"
+	},
+	{
+		"KNr" : 5639,
+		"Fornavn" : "Celine",
+		"Etternavn" : "Ramberg",
+		"Adresse" : "Øvregaten 4B",
+		"PostNr" : "3893"
+	},
+	{
+		"KNr" : 5640,
+		"Fornavn" : "May-britt",
+		"Etternavn" : "Hestnes",
+		"Adresse" : "Minde allé 58",
+		"PostNr" : "3893"
+	},
+	{
+		"KNr" : 5641,
+		"Fornavn" : "Mimmi",
+		"Etternavn" : "Dirdal",
+		"Adresse" : "Furubotn 56",
+		"PostNr" : "2607"
+	},
+	{
+		"KNr" : 5642,
+		"Fornavn" : "Gøril",
+		"Etternavn" : "Bjørke",
+		"Adresse" : "Krabbedalen 2",
+		"PostNr" : "1610"
+	},
+	{
+		"KNr" : 5643,
+		"Fornavn" : "Ian",
+		"Etternavn" : "Berre",
+		"Adresse" : "Bøkestien 39",
+		"PostNr" : "3965"
+	},
+	{
+		"KNr" : 5644,
+		"Fornavn" : "Ada",
+		"Etternavn" : "Fiske",
+		"Adresse" : "Hesthaugvegen 36",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5645,
+		"Fornavn" : "Ali",
+		"Etternavn" : "Lunden",
+		"Adresse" : "Starefoss-svingen 15",
+		"PostNr" : "2808"
+	},
+	{
+		"KNr" : 5646,
+		"Fornavn" : "Kaj",
+		"Etternavn" : "Mælen",
+		"Adresse" : "Trosteveien 13",
+		"PostNr" : "6057"
+	},
+	{
+		"KNr" : 5647,
+		"Fornavn" : "Målfrid",
+		"Etternavn" : "Drage",
+		"Adresse" : "Fæstergrenden 64",
+		"PostNr" : "3885"
+	},
+	{
+		"KNr" : 5648,
+		"Fornavn" : "Mathilde",
+		"Etternavn" : "Hessen",
+		"Adresse" : "Midtunstien 54",
+		"PostNr" : "1605"
+	},
+	{
+		"KNr" : 5649,
+		"Fornavn" : "Oddlaug",
+		"Etternavn" : "Hognestad",
+		"Adresse" : "Myrdalshovden 20",
+		"PostNr" : "6013"
+	},
+	{
+		"KNr" : 5650,
+		"Fornavn" : "Brian",
+		"Etternavn" : "Holte",
+		"Adresse" : "Nedberget 49",
+		"PostNr" : "0988"
+	},
+	{
+		"KNr" : 5651,
+		"Fornavn" : "Nicholas",
+		"Etternavn" : "Broch",
+		"Adresse" : "Ervikveien 15",
+		"PostNr" : "3576"
+	},
+	{
+		"KNr" : 5652,
+		"Fornavn" : "Noah",
+		"Etternavn" : "Grønvik",
+		"Adresse" : "Kolåshøyen 5A",
+		"PostNr" : "4715"
+	},
+	{
+		"KNr" : 5653,
+		"Fornavn" : "Abdullah",
+		"Etternavn" : "Endal",
+		"Adresse" : "Gullfjellsvegen 9",
+		"PostNr" : "4004"
+	},
+	{
+		"KNr" : 5654,
+		"Fornavn" : "Johny",
+		"Etternavn" : "Jonassen",
+		"Adresse" : "Nøttveitvegen 35",
+		"PostNr" : "3484"
+	},
+	{
+		"KNr" : 5655,
+		"Fornavn" : "Anders",
+		"Etternavn" : "Jansen",
+		"Adresse" : "Forvasshaugen 25",
+		"PostNr" : "1536"
+	},
+	{
+		"KNr" : 5656,
+		"Fornavn" : "Alex",
+		"Etternavn" : "Lunde",
+		"Adresse" : "Starefossbakken 13",
+		"PostNr" : "1064"
+	},
+	{
+		"KNr" : 5657,
+		"Fornavn" : "Brian",
+		"Etternavn" : "Holte",
+		"Adresse" : "Nedberget 49",
+		"PostNr" : "0452"
+	},
+	{
+		"KNr" : 5658,
+		"Fornavn" : "Johny",
+		"Etternavn" : "Jonassen",
+		"Adresse" : "Nøttveitvegen 35",
+		"PostNr" : "5614"
+	},
+	{
+		"KNr" : 5659,
+		"Fornavn" : "Thore",
+		"Etternavn" : "Hauan",
+		"Adresse" : "Lindealléen 39",
+		"PostNr" : "2851"
+	},
+	{
+		"KNr" : 5660,
+		"Fornavn" : "Joakim",
+		"Etternavn" : "Garnes",
+		"Adresse" : "Jonsterhaugskiftet 67",
+		"PostNr" : "3484"
+	},
+	{
+		"KNr" : 5661,
+		"Fornavn" : "Kaj",
+		"Etternavn" : "Mælen",
+		"Adresse" : "Trosteveien 13",
+		"PostNr" : "3676"
+	},
+	{
+		"KNr" : 5662,
+		"Fornavn" : "Karla",
+		"Etternavn" : "Hauglid",
+		"Adresse" : "Loddefjordveien 48",
+		"PostNr" : "4671"
+	},
+	{
+		"KNr" : 5663,
+		"Fornavn" : "Gjert",
+		"Etternavn" : "Forland",
+		"Adresse" : "Hylkjeneset 72",
+		"PostNr" : "5859"
+	},
+	{
+		"KNr" : 5664,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Lokes veg 6",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5665,
+		"Fornavn" : "Hallstein",
+		"Etternavn" : "Håkonsen",
+		"Adresse" : "Londalen 45",
+		"PostNr" : "1892"
+	},
+	{
+		"KNr" : 5666,
+		"Fornavn" : "Abdullah",
+		"Etternavn" : "Endal",
+		"Adresse" : "Gullfjellsvegen 9",
+		"PostNr" : "5445"
+	},
+	{
+		"KNr" : 5667,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Lyderhorn 6C",
+		"PostNr" : "0445"
+	},
+	{
+		"KNr" : 5668,
+		"Fornavn" : "Ulla",
+		"Etternavn" : "Iden",
+		"Adresse" : "Nordre Skuteviksveien 58",
+		"PostNr" : "4150"
+	},
+	{
+		"KNr" : 5669,
+		"Fornavn" : "Søren",
+		"Etternavn" : "Opedal",
+		"Adresse" : "Øvre Gyldenprisveien 45",
+		"PostNr" : "3885"
+	},
+	{
+		"KNr" : 5670,
+		"Fornavn" : "Søren",
+		"Etternavn" : "Devik",
+		"Adresse" : "Lyngberget",
+		"PostNr" : "4586"
+	},
+	{
+		"KNr" : 5671,
+		"Fornavn" : "Mikkel",
+		"Etternavn" : "Nordal",
+		"Adresse" : "Verftssmauet 1",
+		"PostNr" : "4523"
+	},
+	{
+		"KNr" : 5672,
+		"Fornavn" : "Carl",
+		"Etternavn" : "Ferstad",
+		"Adresse" : "Helldalslia 19",
+		"PostNr" : "5501"
+	},
+	{
+		"KNr" : 5673,
+		"Fornavn" : "Tony",
+		"Etternavn" : "Lauritzen",
+		"Adresse" : "Skjenlien 1",
+		"PostNr" : "3885"
+	},
+	{
+		"KNr" : 5674,
+		"Fornavn" : "Gøril",
+		"Etternavn" : "Bjørke",
+		"Adresse" : "Midtunlia",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5675,
+		"Fornavn" : "Amina",
+		"Etternavn" : "Alexandersen",
+		"Adresse" : "Neptuns vei 101",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5676,
+		"Fornavn" : "Gitte",
+		"Etternavn" : "Grøstad",
+		"Adresse" : "Kong Oscars gate 8",
+		"PostNr" : "4322"
+	},
+	{
+		"KNr" : 5677,
+		"Fornavn" : "Mohamed",
+		"Etternavn" : "Bremseth",
+		"Adresse" : "Engevikvegen 7",
+		"PostNr" : "5035"
+	},
+	{
+		"KNr" : 5678,
+		"Fornavn" : "Lucas",
+		"Etternavn" : "Kirkeby",
+		"Adresse" : "Petedalsheia 71",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5679,
+		"Fornavn" : "Eystein",
+		"Etternavn" : "Huynh",
+		"Adresse" : "Nils Hertzbergs gate 9",
+		"PostNr" : "3151"
+	},
+	{
+		"KNr" : 5680,
+		"Fornavn" : "David",
+		"Etternavn" : "Astrup",
+		"Adresse" : "Bjørndalsbrotet 21",
+		"PostNr" : "0445"
+	},
+	{
+		"KNr" : 5681,
+		"Fornavn" : "Abdullah",
+		"Etternavn" : "Endal",
+		"Adresse" : "Gullfjellsvegen 9",
+		"PostNr" : "0988"
+	},
+	{
+		"KNr" : 5682,
+		"Fornavn" : "Ada",
+		"Etternavn" : "Fiske",
+		"Adresse" : "Hesthaugvegen 36",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5683,
+		"Fornavn" : "Mariam",
+		"Etternavn" : "Mathiassen",
+		"Adresse" : "Sveiarhaugen 26",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5684,
+		"Fornavn" : "Mimmi",
+		"Etternavn" : "Dirdal",
+		"Adresse" : "Furubotn 56",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5685,
+		"Fornavn" : "Tobias",
+		"Etternavn" : "Haugerud",
+		"Adresse" : "Litleholten 45A",
+		"PostNr" : "1535"
+	},
+	{
+		"KNr" : 5686,
+		"Fornavn" : "Oddlaug",
+		"Etternavn" : "Hognestad",
+		"Adresse" : "Myrdalshovden 20",
+		"PostNr" : "0122"
+	},
+	{
+		"KNr" : 5687,
+		"Fornavn" : "Bengt",
+		"Etternavn" : "Hollund",
+		"Adresse" : "Mølleveien 31",
+		"PostNr" : "0801"
+	},
+	{
+		"KNr" : 5688,
+		"Fornavn" : "Mohamed",
+		"Etternavn" : "Bremseth",
+		"Adresse" : "Engevikvegen 7",
+		"PostNr" : "5258"
+	},
+	{
+		"KNr" : 5689,
+		"Fornavn" : "Gøril",
+		"Etternavn" : "Bjørke",
+		"Adresse" : "Dokkeboder 2",
+		"PostNr" : "2309"
+	},
+	{
+		"KNr" : 5690,
+		"Fornavn" : "Mikkel",
+		"Etternavn" : "Kleiveland",
+		"Adresse" : "Ravns gate 23",
+		"PostNr" : "2847"
+	},
+	{
+		"KNr" : 5691,
+		"Fornavn" : "Karla",
+		"Etternavn" : "Hauglid",
+		"Adresse" : "Loddefjordveien 48",
+		"PostNr" : "6008"
+	},
+	{
+		"KNr" : 5692,
+		"Fornavn" : "Joakim",
+		"Etternavn" : "Bjørgen",
+		"Adresse" : "Danckert Krohns gate 71",
+		"PostNr" : "5010"
+	},
+	{
+		"KNr" : 5693,
+		"Fornavn" : "Olve",
+		"Etternavn" : "Nornes",
+		"Adresse" : "Vinjes gate 41",
+		"PostNr" : "2607"
+	},
+	{
+		"KNr" : 5694,
+		"Fornavn" : "Brian",
+		"Etternavn" : "Holte",
+		"Adresse" : "Nedberget 49",
+		"PostNr" : "2309"
+	},
+	{
+		"KNr" : 5695,
+		"Fornavn" : "Asgeir",
+		"Etternavn" : "Hoftun",
+		"Adresse" : "Myravegen 19",
+		"PostNr" : "3285"
+	},
+	{
+		"KNr" : 5696,
+		"Fornavn" : "Brage",
+		"Etternavn" : "Arntsen",
+		"Adresse" : "Bernhard Meyers vei 24",
+		"PostNr" : "0250"
+	},
+	{
+		"KNr" : 5698,
+		"Fornavn" : "Kaare",
+		"Etternavn" : "Gloppen",
+		"Adresse" : "Kippersmauet 35",
+		"PostNr" : "5859"
+	},
+	{
+		"KNr" : 5699,
+		"Fornavn" : "Trine-lise",
+		"Etternavn" : "Nilssen",
+		"Adresse" : "Vaskerelven 64",
+		"PostNr" : "3484"
+	},
+	{
+		"KNr" : 5700,
+		"Fornavn" : "Abdullahi",
+		"Etternavn" : "Hellem",
+		"Adresse" : "Margaretastredet 21",
+		"PostNr" : "2074"
+	},
+	{
+		"KNr" : 5701,
+		"Fornavn" : "Gjert",
+		"Etternavn" : "Forland",
+		"Adresse" : "Hylkjeneset 69",
+		"PostNr" : "3606"
+	},
+	{
+		"KNr" : 5702,
+		"Fornavn" : "Benedicte",
+		"Etternavn" : "Furulund",
+		"Adresse" : "Joachim Frieles gate 50",
+		"PostNr" : "2015"
+	},
+	{
+		"KNr" : 5703,
+		"Fornavn" : "Kaj",
+		"Etternavn" : "Mælen",
+		"Adresse" : "Trosteveien 13",
+		"PostNr" : "2808"
+	},
+	{
+		"KNr" : 5704,
+		"Fornavn" : "Veslemøy",
+		"Etternavn" : "Nordbø",
+		"Adresse" : "Vesthagen 6",
+		"PostNr" : "4174"
+	},
+	{
+		"KNr" : 5705,
+		"Fornavn" : "Gøril",
+		"Etternavn" : "Bjørke",
+		"Adresse" : "Oldernesveien 2A",
+		"PostNr" : "2851"
+	},
+	{
+		"KNr" : 5706,
+		"Fornavn" : "Brian",
+		"Etternavn" : "Holte",
+		"Adresse" : "Nedberget 49",
+		"PostNr" : "1730"
+	},
+	{
+		"KNr" : 5707,
+		"Fornavn" : "Tom-erik",
+		"Etternavn" : "Drange",
+		"Adresse" : "Fæsteråsen 67",
+		"PostNr" : "0406"
+	},
+	{
+		"KNr" : 5708,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Skipanesvegen 6",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5709,
+		"Fornavn" : "Hallstein",
+		"Etternavn" : "Håkonsen",
+		"Adresse" : "Nordre Gommershaugen 45",
+		"PostNr" : "4696"
+	},
+	{
+		"KNr" : 5710,
+		"Fornavn" : "Gøril",
+		"Etternavn" : "Bjørke",
+		"Adresse" : "Persenbakken 2",
+		"PostNr" : "3199"
+	},
+	{
+		"KNr" : 5711,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Pinnelien 6",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5712,
+		"Fornavn" : "Mehmet",
+		"Etternavn" : "Nome",
+		"Adresse" : "Venåsen 71",
+		"PostNr" : "3676"
+	},
+	{
+		"KNr" : 5713,
+		"Fornavn" : "Emilie",
+		"Etternavn" : "Grude",
+		"Adresse" : "Klostersmauet 74",
+		"PostNr" : "4645"
+	},
+	{
+		"KNr" : 5714,
+		"Fornavn" : "Olve",
+		"Etternavn" : "Gundersen",
+		"Adresse" : "Kringlebotn 25",
+		"PostNr" : "3965"
+	},
+	{
+		"KNr" : 5715,
+		"Fornavn" : "Elias",
+		"Etternavn" : "Husabø",
+		"Adresse" : "Neshaugen 69",
+		"PostNr" : "1763"
+	},
+	{
+		"KNr" : 5716,
+		"Fornavn" : "Marvin",
+		"Etternavn" : "Brattli",
+		"Adresse" : "Elvebakken 67",
+		"PostNr" : "4265"
+	},
+	{
+		"KNr" : 5717,
+		"Fornavn" : "Eystein",
+		"Etternavn" : "Huynh",
+		"Adresse" : "Nils Hertzbergs gate 9",
+		"PostNr" : "0214"
+	},
+	{
+		"KNr" : 5718,
+		"Fornavn" : "Ulla",
+		"Etternavn" : "Iden",
+		"Adresse" : "Nordre Skuteviksveien 58",
+		"PostNr" : "5401"
+	},
+	{
+		"KNr" : 5719,
+		"Fornavn" : "Stephanie",
+		"Etternavn" : "Eng",
+		"Adresse" : "Gullstølslien 12",
+		"PostNr" : "4671"
+	},
+	{
+		"KNr" : 5720,
+		"Fornavn" : "Ismail",
+		"Etternavn" : "Furu",
+		"Adresse" : "Jens Rolfsens gate 47",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5721,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Skipanesvegen 6",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5722,
+		"Fornavn" : "Ada",
+		"Etternavn" : "Fiske",
+		"Adresse" : "Hesthaugvegen 36B",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5723,
+		"Fornavn" : "Dagny",
+		"Etternavn" : "Kvamme",
+		"Adresse" : "Sandviksleitet 24",
+		"PostNr" : "2607"
+	},
+	{
+		"KNr" : 5724,
+		"Fornavn" : "Idar",
+		"Etternavn" : "Frøyland",
+		"Adresse" : "Janahaugen 37",
+		"PostNr" : "6062"
+	},
+	{
+		"KNr" : 5725,
+		"Fornavn" : "Aina",
+		"Etternavn" : "Nygren",
+		"Adresse" : "Von der Ohes vei 50",
+		"PostNr" : "0032"
+	},
+	{
+		"KNr" : 5726,
+		"Fornavn" : "Veslemøy",
+		"Etternavn" : "Nordbø",
+		"Adresse" : "Vesthagen 6",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5727,
+		"Fornavn" : "Wanja",
+		"Etternavn" : "Nordhaug",
+		"Adresse" : "Vestre Murallmenningen 14",
+		"PostNr" : "0015"
+	},
+	{
+		"KNr" : 5728,
+		"Fornavn" : "Agnar",
+		"Etternavn" : "Engelsen",
+		"Adresse" : "Gårdsvegen 21",
+		"PostNr" : "5859"
+	},
+	{
+		"KNr" : 5729,
+		"Fornavn" : "Frithjof",
+		"Etternavn" : "Bastiansen",
+		"Adresse" : "Brattlandsvegen 61",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5730,
+		"Fornavn" : "Brian",
+		"Etternavn" : "Holte",
+		"Adresse" : "Nedberget 49",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5731,
+		"Fornavn" : "Dagny",
+		"Etternavn" : "Kvamme",
+		"Adresse" : "Sandviksleitet 24",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5732,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Skipanesvegen 6",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5734,
+		"Fornavn" : "Amina",
+		"Etternavn" : "Alexandersen",
+		"Adresse" : "Plytten",
+		"PostNr" : "0988"
+	},
+	{
+		"KNr" : 5735,
+		"Fornavn" : "Ada",
+		"Etternavn" : "Fiske",
+		"Adresse" : "Hesthaugvegen 36",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5736,
+		"Fornavn" : "Veslemøy",
+		"Etternavn" : "Nordbø",
+		"Adresse" : "Vesthagen 8",
+		"PostNr" : "4174"
+	},
+	{
+		"KNr" : 5737,
+		"Fornavn" : "Sebastian",
+		"Etternavn" : "Ofstad",
+		"Adresse" : "Zander Kaaes gate 13",
+		"PostNr" : "2943"
+	},
+	{
+		"KNr" : 5738,
+		"Fornavn" : "Marvin",
+		"Etternavn" : "Brattli",
+		"Adresse" : "Elvebakken 67F",
+		"PostNr" : "3471"
+	},
+	{
+		"KNr" : 5739,
+		"Fornavn" : "Svenn",
+		"Etternavn" : "Langen",
+		"Adresse" : "Sjømarkvegen 63",
+		"PostNr" : "1610"
+	},
+	{
+		"KNr" : 5740,
+		"Fornavn" : "Ørjan",
+		"Etternavn" : "Helberg",
+		"Adresse" : "Løtveitveien 9",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5741,
+		"Fornavn" : "Eigil",
+		"Etternavn" : "Fjelde",
+		"Adresse" : "Hillerenveien 43",
+		"PostNr" : "4586"
+	},
+	{
+		"KNr" : 5742,
+		"Fornavn" : "Steven",
+		"Etternavn" : "Oma",
+		"Adresse" : "Øvre bjørkåsen 33",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5743,
+		"Fornavn" : "Idar",
+		"Etternavn" : "Mongstad",
+		"Adresse" : "Tertnesgrenden 37",
+		"PostNr" : "3209"
+	},
+	{
+		"KNr" : 5744,
+		"Fornavn" : "Mehmet",
+		"Etternavn" : "Nome",
+		"Adresse" : "Venåsen 71",
+		"PostNr" : "2223"
+	},
+	{
+		"KNr" : 5745,
+		"Fornavn" : "Noah",
+		"Etternavn" : "Grønvik",
+		"Adresse" : "Kolåshøyen 5",
+		"PostNr" : "4586"
+	},
+	{
+		"KNr" : 5746,
+		"Fornavn" : "Veslemøy",
+		"Etternavn" : "Nordbø",
+		"Adresse" : "Vesthagen 1",
+		"PostNr" : "0988"
+	},
+	{
+		"KNr" : 5747,
+		"Fornavn" : "Adrian",
+		"Etternavn" : "Elvestad",
+		"Adresse" : "Grøvlesvingen 5",
+		"PostNr" : "5035"
+	},
+	{
+		"KNr" : 5748,
+		"Fornavn" : "Sven",
+		"Etternavn" : "Dammen",
+		"Adresse" : "Frieda Fasmers vei 43",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5749,
+		"Fornavn" : "Paul",
+		"Etternavn" : "Gustavson",
+		"Adresse" : "Krohnengssmauet 35",
+		"PostNr" : "3507"
+	},
+	{
+		"KNr" : 5750,
+		"Fornavn" : "Thea",
+		"Etternavn" : "Høvik",
+		"Adresse" : "Nordhordlandsvegen 34",
+		"PostNr" : "1763"
+	},
+	{
+		"KNr" : 5751,
+		"Fornavn" : "Carsten",
+		"Etternavn" : "Askildsen",
+		"Adresse" : "Bjørgebrekken 9",
+		"PostNr" : "4322"
+	},
+	{
+		"KNr" : 5752,
+		"Fornavn" : "Bengt",
+		"Etternavn" : "Hollund",
+		"Adresse" : "Mølleveien 31",
+		"PostNr" : "4688"
+	},
+	{
+		"KNr" : 5753,
+		"Fornavn" : "Villy",
+		"Etternavn" : "Lian",
+		"Adresse" : "Skytterveien 24",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5754,
+		"Fornavn" : "Ismail",
+		"Etternavn" : "Furu",
+		"Adresse" : "Jens Rolfsens gate 47",
+		"PostNr" : "2808"
+	},
+	{
+		"KNr" : 5755,
+		"Fornavn" : "Veslemøy",
+		"Etternavn" : "Nordbø",
+		"Adresse" : "Nordilia",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5756,
+		"Fornavn" : "Susanne",
+		"Etternavn" : "Natland",
+		"Adresse" : "Tverrgaten 24F",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5757,
+		"Fornavn" : "Markus",
+		"Etternavn" : "Bratlie",
+		"Adresse" : "Elsters gate 65",
+		"PostNr" : "5445"
+	},
+	{
+		"KNr" : 5758,
+		"Fornavn" : "Mohammed",
+		"Etternavn" : "Nordby",
+		"Adresse" : "Vestgårdvegen 5",
+		"PostNr" : "1255"
+	},
+	{
+		"KNr" : 5759,
+		"Fornavn" : "Adam",
+		"Etternavn" : "Loe",
+		"Adresse" : "St. Halvards vei 22",
+		"PostNr" : "3885"
+	},
+	{
+		"KNr" : 5760,
+		"Fornavn" : "David",
+		"Etternavn" : "Astrup",
+		"Adresse" : "Bjørndalsbrotet 21",
+		"PostNr" : "2607"
+	},
+	{
+		"KNr" : 5761,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Reinane",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5762,
+		"Fornavn" : "Oddbjørn",
+		"Etternavn" : "Brunstad",
+		"Adresse" : "Fagertunvegen 29",
+		"PostNr" : "1763"
+	},
+	{
+		"KNr" : 5763,
+		"Fornavn" : "Hilmar",
+		"Etternavn" : "Bergstrøm",
+		"Adresse" : "Bursflata 31",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5764,
+		"Fornavn" : "Ørjan",
+		"Etternavn" : "Helberg",
+		"Adresse" : "Løtveitveien 9",
+		"PostNr" : "0255"
+	},
+	{
+		"KNr" : 5765,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Skipanesvegen 6",
+		"PostNr" : "1610"
+	},
+	{
+		"KNr" : 5766,
+		"Fornavn" : "Ole-jørgen",
+		"Etternavn" : "Kongshaug",
+		"Adresse" : "Ruskeneshaugen 57",
+		"PostNr" : "2943"
+	},
+	{
+		"KNr" : 5767,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Klarhei 4",
+		"PostNr" : "1286"
+	},
+	{
+		"KNr" : 5768,
+		"Fornavn" : "Bjørnar",
+		"Etternavn" : "Holsen",
+		"Adresse" : "Nattlandsveien 43",
+		"PostNr" : "3885"
+	},
+	{
+		"KNr" : 5769,
+		"Fornavn" : "Emil",
+		"Etternavn" : "Fjellestad",
+		"Adresse" : "Hjellestadvegen 49",
+		"PostNr" : "4645"
+	},
+	{
+		"KNr" : 5770,
+		"Fornavn" : "Ismail",
+		"Etternavn" : "Furu",
+		"Adresse" : "JensRolfsens gate 47",
+		"PostNr" : "3209"
+	},
+	{
+		"KNr" : 5771,
+		"Fornavn" : "Eystein",
+		"Etternavn" : "Huynh",
+		"Adresse" : "Nils Hertzbergs gate 9",
+		"PostNr" : "0602"
+	},
+	{
+		"KNr" : 5772,
+		"Fornavn" : "Veslemøy",
+		"Etternavn" : "Nordbø",
+		"Adresse" : "Vesthagen 6",
+		"PostNr" : "3044"
+	},
+	{
+		"KNr" : 5773,
+		"Fornavn" : "Hallstein",
+		"Etternavn" : "Håkonsen",
+		"Adresse" : "Råtun",
+		"PostNr" : "4696"
+	},
+	{
+		"KNr" : 5774,
+		"Fornavn" : "Ottar",
+		"Etternavn" : "Bue",
+		"Adresse" : "Feråsvegen 51E",
+		"PostNr" : "3216"
+	},
+	{
+		"KNr" : 5775,
+		"Fornavn" : "Elias",
+		"Etternavn" : "Husabø",
+		"Adresse" : "Neshaugen 69",
+		"PostNr" : "6057"
+	},
+	{
+		"KNr" : 5776,
+		"Fornavn" : "Fanny",
+		"Etternavn" : "Betten",
+		"Adresse" : "Bønesberget 44",
+		"PostNr" : "3126"
+	},
+	{
+		"KNr" : 5777,
+		"Fornavn" : "Mikkel",
+		"Etternavn" : "Kleiveland",
+		"Adresse" : "Ravns gate 23",
+		"PostNr" : "2847"
+	},
+	{
+		"KNr" : 5778,
+		"Fornavn" : "Flemming",
+		"Etternavn" : "Mellum",
+		"Adresse" : "Sætrevegen 51",
+		"PostNr" : "0760"
+	},
+	{
+		"KNr" : 5779,
+		"Fornavn" : "Emilie",
+		"Etternavn" : "Grude",
+		"Adresse" : "Klostersmauet 74",
+		"PostNr" : "5282"
+	},
+	{
+		"KNr" : 5780,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Jordbotn 9",
+		"PostNr" : "1286"
+	},
+	{
+		"KNr" : 5781,
+		"Fornavn" : "Brian",
+		"Etternavn" : "Holte",
+		"Adresse" : "Nedberget 49",
+		"PostNr" : "0988"
+	},
+	{
+		"KNr" : 5782,
+		"Fornavn" : "Andres",
+		"Etternavn" : "Hjelm",
+		"Adresse" : "Morvikbotn 1",
+		"PostNr" : "0015"
+	},
+	{
+		"KNr" : 5783,
+		"Fornavn" : "Kaj",
+		"Etternavn" : "Mælen",
+		"Adresse" : "Trosteveien 13",
+		"PostNr" : "2808"
+	},
+	{
+		"KNr" : 5784,
+		"Fornavn" : "Gjert",
+		"Etternavn" : "Forland",
+		"Adresse" : "Hylkjeneset 69",
+		"PostNr" : "1389"
+	},
+	{
+		"KNr" : 5785,
+		"Fornavn" : "Hulda",
+		"Etternavn" : "Blakstad",
+		"Adresse" : "Edvard Griegs vei 26",
+		"PostNr" : "0760"
+	},
+	{
+		"KNr" : 5786,
+		"Fornavn" : "Eystein",
+		"Etternavn" : "Bakker",
+		"Adresse" : "Borgermester Platous gate 49",
+		"PostNr" : "4523"
+	},
+	{
+		"KNr" : 5787,
+		"Fornavn" : "Maren",
+		"Etternavn" : "Martens",
+		"Adresse" : "Sukkerhusgaten 18",
+		"PostNr" : "2943"
+	},
+	{
+		"KNr" : 5788,
+		"Fornavn" : "Adam",
+		"Etternavn" : "Loe",
+		"Adresse" : "St. Halvards vei 22",
+		"PostNr" : "3681"
+	},
+	{
+		"KNr" : 5789,
+		"Fornavn" : "Gjert",
+		"Etternavn" : "Forland",
+		"Adresse" : "Hylkjeneset 69",
+		"PostNr" : "0270"
+	},
+	{
+		"KNr" : 5790,
+		"Fornavn" : "Joakim",
+		"Etternavn" : "Johnsen",
+		"Adresse" : "Nøstebodene 31",
+		"PostNr" : "6057"
+	},
+	{
+		"KNr" : 5791,
+		"Fornavn" : "Celine",
+		"Etternavn" : "Ramberg",
+		"Adresse" : "Øvregaten 4",
+		"PostNr" : "1539"
+	},
+	{
+		"KNr" : 5792,
+		"Fornavn" : "Ann-kristin",
+		"Etternavn" : "Anthonsen",
+		"Adresse" : "Bellgården 15",
+		"PostNr" : "6008"
+	},
+	{
+		"KNr" : 5793,
+		"Fornavn" : "Adam",
+		"Etternavn" : "Loe",
+		"Adresse" : "St. Halvards vei 22D",
+		"PostNr" : "3606"
+	},
+	{
+		"KNr" : 5794,
+		"Fornavn" : "Veslemøy",
+		"Etternavn" : "Nordbø",
+		"Adresse" : "Vesthagen 6",
+		"PostNr" : "1286"
+	},
+	{
+		"KNr" : 5795,
+		"Fornavn" : "Lucas",
+		"Etternavn" : "Kirkeby",
+		"Adresse" : "Petedalsheia 71",
+		"PostNr" : "1539"
+	},
+	{
+		"KNr" : 5796,
+		"Fornavn" : "Fanny",
+		"Etternavn" : "Betten",
+		"Adresse" : "Bønesberget 44",
+		"PostNr" : "0122"
+	},
+	{
+		"KNr" : 5797,
+		"Fornavn" : "Agnar",
+		"Etternavn" : "Engelsen",
+		"Adresse" : "Gårdsvegen 21",
+		"PostNr" : "4696"
+	},
+	{
+		"KNr" : 5798,
+		"Fornavn" : "Stephanie",
+		"Etternavn" : "Eng",
+		"Adresse" : "Gullstølslien 12",
+		"PostNr" : "4671"
+	},
+	{
+		"KNr" : 5799,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Skipanesvegen 6",
+		"PostNr" : "1892"
+	},
+	{
+		"KNr" : 5800,
+		"Fornavn" : "Evelyn",
+		"Etternavn" : "Langaas",
+		"Adresse" : "Skipanesvegen 6",
+		"PostNr" : "0764"
+	},
+	{
+		"KNr" : 5801,
+		"Fornavn" : "Ian",
+		"Etternavn" : "Irgens",
+		"Adresse" : "Nordåshøgda 73",
+		"PostNr" : "3209"
+	},
+	{
+		"KNr" : 5802,
+		"Fornavn" : "Sven",
+		"Etternavn" : "Dammen",
+		"Adresse" : "Frieda Fasmers vei 43",
+		"PostNr" : "6057"
+	},
+	{
+		"KNr" : 5803,
+		"Fornavn" : "Brian",
+		"Etternavn" : "Holte",
+		"Adresse" : "Nedberget 49",
+		"PostNr" : "2825"
+	},
+	{
+		"KNr" : 5804,
+		"Fornavn" : "Ismail",
+		"Etternavn" : "Furu",
+		"Adresse" : "Jens Rolfsens gate 47D",
+		"PostNr" : "4004"
+	},
+	{
+		"KNr" : 5805,
+		"Fornavn" : "Jane",
+		"Etternavn" : "Brandtzæg",
+		"Adresse" : "Elgvegen 58",
+		"PostNr" : "1286"
+	},
+	{
+		"KNr" : 5806,
+		"Fornavn" : "Brian",
+		"Etternavn" : "Holte",
+		"Adresse" : "Nedberget 49",
+		"PostNr" : "2309"
+	},
+	{
+		"KNr" : 5807,
+		"Fornavn" : "Abdirahman",
+		"Etternavn" : "Lindahl",
+		"Adresse" : "Solbakksvingen 27",
+		"PostNr" : "4276"
+	},
+	{
+		"KNr" : 5808,
+		"Fornavn" : "Johny",
+		"Etternavn" : "Jonassen",
+		"Adresse" : "Nøttveitvegen 35",
+		"PostNr" : "5859"
+	},
+	{
+		"KNr" : 5809,
+		"Fornavn" : "Søren",
+		"Etternavn" : "Hasle",
+		"Adresse" : "Lilandsvegen 29",
+		"PostNr" : "5859"
+	},
+	{
+		"KNr" : 5810,
+		"Fornavn" : "Hilmar",
+		"Etternavn" : "Bergstrøm",
+		"Adresse" : "Bursflata 31",
+		"PostNr" : "2302"
+	},
+	{
+		"KNr" : 5811,
+		"Fornavn" : "Olve",
+		"Etternavn" : "Gundersen",
+		"Adresse" : "Kringlebotn 25",
+		"PostNr" : "0270"
+	},
+	{
+		"KNr" : 5812,
+		"Fornavn" : "Abdirahman",
+		"Etternavn" : "Lindahl",
+		"Adresse" : "Solbakksvingen 27",
+		"PostNr" : "4276"
+	},
+	{
+		"KNr" : 5813,
+		"Fornavn" : "Amina",
+		"Etternavn" : "Alexandersen",
+		"Adresse" : "Asylplassen 2",
+		"PostNr" : "3199"
+	},
+	{
+		"KNr" : 5814,
+		"Fornavn" : "Bengt",
+		"Etternavn" : "Hollund",
+		"Adresse" : "Mølleveien 31",
+		"PostNr" : "0801"
+	},
+	{
+		"KNr" : 5815,
+		"Fornavn" : "Gøril",
+		"Etternavn" : "Bjørke",
+		"Adresse" : "Skjoldlia",
+		"PostNr" : "3681"
+	},
+	{
+		"KNr" : 5816,
+		"Fornavn" : "Joakim",
+		"Etternavn" : "Bjørgen",
+		"Adresse" : "Danckert Krohns gate 71",
+		"PostNr" : "3606"
+	},
+	{
+		"KNr" : 5817,
+		"Fornavn" : "Abdullah",
+		"Etternavn" : "Endal",
+		"Adresse" : "Gullfjellsvegen 9",
+		"PostNr" : "5282"
+	},
+	{
+		"KNr" : 5818,
+		"Fornavn" : "Lucas",
+		"Etternavn" : "Kirkeby",
+		"Adresse" : "Petedalsheia 71",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5819,
+		"Fornavn" : "Eystein",
+		"Etternavn" : "Bakker",
+		"Adresse" : "Borgermester Platous gate 49",
+		"PostNr" : "3790"
+	},
+	{
+		"KNr" : 5820,
+		"Fornavn" : "Elias",
+		"Etternavn" : "Husabø",
+		"Adresse" : "Neshaugen 69",
+		"PostNr" : "4742"
+	},
+	{
+		"KNr" : 5821,
+		"Fornavn" : "Birgitte",
+		"Etternavn" : "Garshol",
+		"Adresse" : "Jonsvollsgaten 68A",
+		"PostNr" : "5912"
+	},
+	{
+		"KNr" : 5822,
+		"Fornavn" : "Gøril",
+		"Etternavn" : "Bjørke",
+		"Adresse" : "Svineryggen",
+		"PostNr" : "3681"
+	},
+	{
+		"KNr" : 5823,
+		"Fornavn" : "Ailin",
+		"Etternavn" : "Fjellvang",
+		"Adresse" : "Hjortlandsvegen 52",
+		"PostNr" : "3681"
+	},
+	{
+		"KNr" : 5824,
+		"Fornavn" : "Erland",
+		"Etternavn" : "Hussain",
+		"Adresse" : "Nesttunkollen 1",
+		"PostNr" : "0171"
+	}
+]

@@ -1,0 +1,22 @@
+li button {
+    border: none; /* No border */
+    background: none; /* No background */
+    color: rgb(0, 0, 0); /* Red color for the 'X' */
+    cursor: pointer; /* Pointer cursor */
+    font-size: 20px; /* Larger size for visibility */
+    line-height: 0; /* Center vertically */
+    margin-left: 10dvw; /* Space between text and button */
+}
+
+li{
+    margin-top: 20px;
+}
+
+li:nth-child(even) {
+    background-color: #f0f0f0; /* Light grey for even items */
+    height: fit-content;
+}
+
+li:nth-child(odd) {
+    background-color: #ffffff; /* White for odd items */
+}

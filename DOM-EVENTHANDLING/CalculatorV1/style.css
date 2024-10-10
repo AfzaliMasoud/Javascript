@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 32px; /* Increased font size */
+}
+
+input[type="number"] {
+    width: 200px;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 18px; /* Increased font size */
+}
+
+.button-container {
+    display: flex; /* Flexbox for buttons */
+    justify-content: center; /* Center buttons */
+    margin: 10px 0; /* Space around button container */
+}
+
+button {
+    width: 50px; /* Set a consistent width */
+    height: 50px; /* Set a consistent height */
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: #28a745;
+    color: white;
+    font-size: 20px; /* Increased font size */
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.1s; /* Added transform for click effect */
+}
+
+button:hover {
+    background-color: #218838;
+    transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 28px; /* Increased font size */
+    color: #333;
+}

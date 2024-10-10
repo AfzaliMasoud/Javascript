@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Timer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="input-section">
+            <h1 class="title">Task Timer</h1>
+            <div class="input-group">
+                <input type="text" id="taskinput" placeholder="Enter Task">
+                <input type="number" id="hour" placeholder="Hrs" min="0">
+                <input type="number" id="minutes" placeholder="Mins" min="0">
+                <input type="number" id="seconds" placeholder="Sec" min="0">
+                <button id="addbutton">Add Task and Start Timer</button>
+            </div>
+        </div>
+
+        <div class="output-box">
+            <h2 id="taskdisplay">No Task Added</h2>
+            <h2 id="timedisplay">00:00:00</h2>
+        </div>
+    </div>
+
+    <div class="control-buttons">
+        <button id="stop-button">STOP</button>
+        <button id="resume-button">RESUME</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

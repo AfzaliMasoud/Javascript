@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Edris Afghan",
+      "job": "Pizza Specialist",
+      "img": "Edris.jpeg",
+      "text": "HELLO WAT IS UR NAME, MY NAME IS EDRIS. I COOK PIZZA FOR DOMINS SVERIGE !"
+    },
+    {
+      "id": 2,
+      "name": "Mahdi ZAMANIIII",
+      "job": "Koni at airport",
+      "img": "Mahdi.png",
+      "text": "Salam man mahdi va agha jenab kon midam dar sar bazara."
+    },
+    {
+      "id": 3,
+      "name": "Elias KONI",
+      "job": "Bi kar Bi bar",
+      "img": "Elias.png",
+      "text": "Hello wat , man dost daram kon bedam va non moft bokhoram"
+    },
+    {
+      "id": 4,
+      "name": "Gholam Moshak",
+      "job": "The missile",
+      "img": "Gholam.jpeg",
+      "text": "RIDI BABA"
+    }
+  ]
+  

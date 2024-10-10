@@ -1,0 +1,11 @@
+{
+  "sted": "Oslo, Norge",
+  "år": 2024,
+  "data": [
+      { "måned": "Januar", "gjennomsnittlig_temperatur_celsius": -2, "nedbør_mm": 55 },
+      { "måned": "Februar", "gjennomsnittlig_temperatur_celsius": -1, "nedbør_mm": 40 },
+      { "måned": "Mars", "gjennomsnittlig_temperatur_celsius": 2, "nedbør_mm": 45 },
+      { "måned": "April", "gjennomsnittlig_temperatur_celsius": 6, "nedbør_mm": 50 },
+      { "måned": "Mai", "gjennomsnittlig_temperatur_celsius": 12, "nedbør_mm": 60 }
+  ]
+}

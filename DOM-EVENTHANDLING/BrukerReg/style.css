@@ -1,0 +1,55 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif; /* Font choice */
+    background-color: #f0f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px; /* Padding around the container */
+}
+
+.form-container {
+    background: white;
+    border-radius: 10px;
+    padding: 40px; /* Increased padding for a spacious feel */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* Shadow effect */
+    width: 600px; /* Wider form */
+    max-width: 100%; /* Full width on smaller screens */
+}
+
+h1 {
+    font-size: 28px; /* Larger heading */
+    margin-bottom: 20px; /* Space below heading */
+    text-align: center; /* Centered heading */
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 16px; /* Increased label font size */
+    color: #333;
+}
+
+input {
+    width: 95%;
+    padding: 12px; /* Increased padding for inputs */
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px; /* Increased input font size */
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 12px; /* Increased button padding */
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px; /* Button font size */
+}
+
+button:hover {
+    background-color: #0056b3;
+}

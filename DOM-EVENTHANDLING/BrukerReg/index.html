@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registreringsskjema</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container mt-5">
+    <h2>Registrer deg</h2>
+    <form id="registrationForm" action="submit.php" method="POST">
+        <div class="form-group">
+            <label for="adresse">Adresse:</label>
+            <input type="text" class="form-control" id="adresse" name="adresse" required>
+        </div>
+        <div class="form-group">
+            <label for="epost">E-post:</label>
+            <input type="email" class="form-control" id="epost" name="epost" required placeholder="Lovlig epost">
+        </div>
+        <div class="form-group">
+            <label for="nettadresse">Nettadresse:</label>
+            <input type="url" class="form-control" id="nettadresse" name="nettadresse" required placeholder="Lovlig url">
+        </div>
+        <div class="form-group">
+            <label for="dato">Fødselsdato:</label>
+            <input type="date" class="form-control" id="dato" name="dato" value="2018-05-17" min="2010-01-01" max="2019-12-31" required>
+        </div>
+        <div class="form-group">
+            <label for="grense">Grense (7-15):</label>
+            <input type="number" class="form-control" id="grense" name="grense" min="7" max="15" required>
+        </div>
+        <div class="form-group">
+            <label for="tilbakemelding">Tilbakemelding (7-15):</label>
+            <input type="range" class="form-control-range" id="tilbakemelding" name="tilbakemelding" min="7" max="15" value="11">
+        </div>
+        <div class="form-group">
+            <label for="mottattKode">Kode (to store bokstaver etterfulgt av fem tall):</label>
+            <input type="text" class="form-control" id="mottattKode" name="mottattKode" pattern="[A-Z]{2}[0-9]{5}" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Registrer</button>
+    </form>
+</div>
+
+<script>
+    document.getElementById('registrationForm').addEventListener('submit', function(event) {
+        let isValid = true;
+
+        // Validering av tilbakemelding
+        const tilbakemelding = document.getElementById('tilbakemelding').value;
+        if (tilbakemelding < 7 || tilbakemelding > 15) {
+            alert('Tilbakemelding må være mellom 7 og 15.');
+            isValid = false;
+        }
+
+        if (!isValid) {
+            event.preventDefault(); // Stoppe sending av skjemaet
+        }
+    });
+</script>
+
+</body>
+</html>
