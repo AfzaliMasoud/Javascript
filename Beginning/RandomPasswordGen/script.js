@@ -34,7 +34,7 @@ function generateRandompassword(){
             { checked: number.checked, chars: numberChars },
             { checked: symbols.checked, chars: symbolChars }
         ];
-        const unchecked = checkeddata.some(checkbox => !checkbox.checked);
+        const unchecked = checkeddata.every(checkbox => !checkbox.checked);
 
         if(unchecked){
             resultat.textContent = "YOU MUST HAVE ONE OF THE CHECKBOXES CHECKED";
